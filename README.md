@@ -15,6 +15,8 @@ Stat card created by [anuraghazra](https://github.com/anuraghazra/github-readme-
 - 🌱 I’m currently learning how to create nice interfaces using SwiftUI. So I'm getting a few small apps and tweaking their interfaces.
 * [**Pomodoro**](https://github.com/LeTarrask/Pomodoro) - Created the logic for a Pomodoro app, now need to polish the UI.
 
+* [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike.
+
 * [**Dualogue**](https://github.com/LeTarrask/Dualogue) - A conversation talk list in SwiftUI. My personal approach to a to do list, that also uses CNContacts and Core Data. Coding it has taught me a lot, but the usefulness of the app is not that great.
 
 
