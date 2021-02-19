@@ -10,6 +10,10 @@ Currently I’m working on my Swift skills and improving the UI in a few SwiftUI
 
 Stat card created by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
+### Codewars - My current Codewars profile
+
+(https://www.codewars.com/users/LeTarrask/badges/large)
+
 
 ### Log: - Here's the stuff I'm working right now
 I’m currently learning how to create nice interfaces using SwiftUI. So I'm getting a few small apps and tweaking their interfaces.
