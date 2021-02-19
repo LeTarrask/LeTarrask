@@ -12,7 +12,7 @@ Stat card created by [anuraghazra](https://github.com/anuraghazra/github-readme-
 
 ### Codewars - My current Codewars profile
 
-(https://www.codewars.com/users/LeTarrask/badges/large)
+![](https://www.codewars.com/users/LeTarrask/badges/large)
 
 
 ### Log: - Here's the stuff I'm working right now
