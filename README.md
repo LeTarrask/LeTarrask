@@ -16,20 +16,28 @@ Stat card created by [anuraghazra](https://github.com/anuraghazra/github-readme-
 
 
 ### Log: - Here's the stuff I'm working right now
+
 I’m currently learning how to create nice interfaces using SwiftUI. So I'm getting a few small apps and tweaking their interfaces.
-* [**Pomodoro**](https://github.com/LeTarrask/Pomodoro) - Created the logic for a Pomodoro app, now need to polish the UI.
 
-* [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike.
+* [**Dobble**](https://github.com/LeTarrask/Dobble) - Clone of the Dobble Card Game
 
-* [**Dualogue**](https://github.com/LeTarrask/Dualogue) - A conversation talk list in SwiftUI. My personal approach to a to do list, that also uses CNContacts and Core Data. Coding it has taught me a lot, but the usefulness of the app is not that great.
+* [**Tobem Ipsum**](https://github.com/LeTarrask/Tobem-Ipsum) - A Loren Ipsum generator created in a 2 day hackaton as a Status Bar app for Mac OS.
 
 
 ### Portfolio: - Those are the projects I'm most proud of
+
 Following the advice of learning by doing, I've created a few projects that are usable.
+
+* [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike.
 
 * [**2048**](https://github.com/LeTarrask/2048) - A pure SwiftUI version of the 2048 game. A nice weekend project to prove myself that I can do interesting stuff with an advertising agency deadline.
 
 * [**Dreadline**](https://github.com/LeTarrask/Dreadline) - A text editor to avoid procrastination. It sends your texts to your PM/Boss/Coworker/other responsible person when the time is over.
+
+### Parked stuff: - Some projects that I'm waiting some time to finish
+* [**Pomodoro**](https://github.com/LeTarrask/Pomodoro) - Created the logic for a Pomodoro app, now need to polish the UI.
+
+* [**Dualogue**](https://github.com/LeTarrask/Dualogue) - A conversation talk list in SwiftUI. My personal approach to a to do list, that also uses CNContacts and Core Data. Coding it has taught me a lot, but the usefulness of the app is not that great.
 
 * [**Remember that night**](https://github.com/LeTarrask/Remember_that_night) - A Flask interface for a Python script that generate playlists for fake festivals on Spotify.
 
