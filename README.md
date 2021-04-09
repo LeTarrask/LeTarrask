@@ -28,6 +28,8 @@ I’m currently learning how to create nice interfaces using SwiftUI. So I'm get
 
 Following the advice of learning by doing, I've created a few projects that are usable.
 
+* [**SwiftUI Placeholder**](https://github.com/LeTarrask/SwiftUI-Placeholder) - A simple SwiftUI struct that can be used to preview sizes and spaces during development, as wireframe placeholders. It's a version of Paul Hudson's [Placeholder](https://github.com/twostraws/Placeholder) for Swift.
+
 * [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike.
 
 * [**2048**](https://github.com/LeTarrask/2048) - A pure SwiftUI version of the 2048 game. A nice weekend project to prove myself that I can do interesting stuff with an advertising agency deadline.
