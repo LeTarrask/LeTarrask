@@ -7,12 +7,33 @@ All the projects will be stored in one single repo.
 ## Hacking With SwiftUI Projects
 ### Project #1: WeSplit
 A check-splitting app
+1- Techniques:
+[] - Basic project structure
+[] - Form
+[] - @State
+[] - Navigation View
+[] - Picker
+[] - .keyboardType(.decimalPad)
+[] - Double formatting
+[] - Computed properties
+
+2- Step-by-step:
+Basically, create a single view that computes some properties which are updated onscreen, using @State properties.
+
+3- Challenges:
+Add to the form, create another computed property, change the picker.
 
 ### Project #2: Guess the Flag
 Build a game with stacks, images, and alerts
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #3: Views and Modifiers
 Dive deep into Swift's rendering system
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #4: BetterRest
 Use machine learning to improve sleep
