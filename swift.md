@@ -1,12 +1,24 @@
 # Swift Projects
 
-## Project #13: 5ed SRD Reader for Mac
+## Project #15: Pomodoro
+[**Pomodoro**](https://github.com/LeTarrask/Pomodoro)
+
+[] - Mac OS
+[] - Status bar app
+[] - User preference storage in UserDefaults
+[] - EventMonitor to figure out clicks outside the app
+[] - SwiftLint
+[] - SwiftUI
+
+## Project #14: 5ed SRD Reader for Mac
+**Repo not started yet**
 
 [] - Mac OS
 [] - Web requests to API
 [] - Decoding JSON
 
-## Project #12: AE Euro Counter
+## Project #13: AE Euro Counter
+[**Euro Counter**](https://github.com/LeTarrask/Euro-Counter)
 
 [] - ML Training
 [] - Vision - machine recognition OCR
@@ -15,7 +27,8 @@
 [] - Live camera feed (UIKit framework used in SwiftUI)
 [] -
 
-## Project #11: Mileage Tracker
+## Project #12: Mileage Tracker
+[**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker)
 
 [] - iOS
 [] - SwiftUI
@@ -45,7 +58,8 @@
 [] - Extension double - clean and rounded for UI reasons
 [] -
 
-## Project #10: Dobble
+## Project #11: Dobble
+[**Dobble**](https://github.com/LeTarrask/Dobble)
 
 [] - Podfile
 [] - AdMob via pod
@@ -58,7 +72,8 @@
 [] - iOS built
 [] - SwiftUI
 
-## Project #9: Tobem Ipsum
+## Project #10: Tobem Ipsum
+[**Tobem Ipsum**](https://github.com/LeTarrask/Tobem-Ipsum)
 
 [] - Mac OS
 [] - Status bar app
@@ -70,7 +85,8 @@
 [] - SwiftLint
 [] - SwiftUI
 
-## Project #8: 2048
+## Project #9: 2048
+[**2048**](https://github.com/LeTarrask/2048)
 
 [] - Podfile
 [] - SwifLint via pod
@@ -90,14 +106,16 @@
 [] - iOS built
 [] - SwifUI
 
-## Project #7: Paradoxes
+## Project #8: Paradoxes
+[**Paradoxes**](https://github.com/LeTarrask/Paradoxes)
 
 [] - Animation
 [] - radius / sin, cos calculation to position balls in screen
 [] - ternary conditionals
 [] - SwiftUI
 
-## Project: #6 Mara:
+## Project #7: Mara:
+**Private Repo**
 
 [] - ML training / use in app
 [] - Mac OS
@@ -106,13 +124,15 @@
 [] - File deleting
 [] - SwiftUI
 
-## Project #5 : Creative Gym
+## Project #6: Creative Gym
+[**Creative Gym**](https://github.com/LeTarrask/Creative-Gym)
 
 [] - Complex data models
 [] - iOS
 [] - SwiftUI
 
-## Project #4: Dualogue
+## Project #5: Dualogue
+[**Dualogue**](https://github.com/LeTarrask/Dualogue)
 
 [] - Core Data
 [] - Complex data models
@@ -125,7 +145,8 @@
 [] - iOS
 [] - SwiftUI
 
-## Project #3: Dreadline
+## Project #4: Dreadline
+[**Dreadline**](https://github.com/LeTarrask/Dreadline)
 
 [] - Mac OS
 [] - UIKit
@@ -133,12 +154,20 @@
 [] - Uses storyboard
 [] - Email sending
 
+## Project #3: Iniciativer
+[**Iniciativer**](https://github.com/LeTarrask/Iniciativer)
+
+[] - iOS
+[] - SwiftUI
+
 ## Project #2: SwiftUI Placeholder
+[**SwiftUI Placeholder**](https://github.com/LeTarrask/SwiftUI-Placeholder)
 
 [] - SwiftUI
 [] - Geometry Reader
 
 ## Project #1: 1 milhão de folhas
+[**1 milhão de folhas**](https://github.com/LeTarrask/1-milh-o-de-folhas)
 
 [] - Published project
 [] - Random selection of text
