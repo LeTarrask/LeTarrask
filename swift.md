@@ -1,6 +1,289 @@
-# Swift Projects
+# Swift Learning Path
 
-## Project #15: Pomodoro
+My idea is to speed run through these projects, assessing what I already know, building super fast whatever it is, and also writing down what I don't know. For the tenth time, instead of doing it in three months, I'll do it in one.
+
+All the projects will be stored in one single repo.
+
+## Hacking With SwiftUI Projects
+### Project #1: WeSplit
+A check-splitting app
+
+### Project #2: Guess the Flag
+Build a game with stacks, images, and alerts
+
+### Project #3: Views and Modifiers
+Dive deep into Swift's rendering system
+
+### Project #4: BetterRest
+Use machine learning to improve sleep
+
+### Project #5: Word Scramble
+Build a letter rearranging game with List
+
+### Project #6: Animation
+Spruce up your UI with springs, bounces, and more
+
+### Project #7: iExpense
+Bring in a second view with this expense tracking app
+
+### Project #8: Moonshot
+Teach users about space history with scroll views, Codable, and more
+
+### Project #9: Drawing
+Use shapes, paths, colors, and more to create custom art for your app
+
+### Project #10: Cupcake Corner
+Build an app that sends and receives JSON from the internet
+
+### Project #11: Bookworm
+Use Core Data to build an app that tracks books you like
+
+### Project #12: Core Data
+Take an in-depth tour of how SwiftUI and Core Data work together
+
+### Project #13: Instafilter
+Learn to link SwiftUI, UIKit, and Core Image in one app
+
+### Project #14: Bucket List
+Embed maps and make network calls in this life goals app
+
+### Project #15: Accessibility
+Learn how to make your apps available to everyone
+
+### Project #16: Hot Prospects
+Build an app for conferences with tabs, context menus, and more.
+
+### Project #17: Flashzilla
+Use gestures and haptics to build a learning app.
+
+### Project #18: Layout and Geometry
+Explore the inner workings of SwiftUI's layout system.
+
+### Project #19: SnowSeeker
+Build an app for ski resorts that works great on iPad.
+
+***
+
+## Hacking with Swift UIKit Projects & Milestones
+
+### Milestone #1: Learning the Swift Language
+Fizz Buzz test
+
+### Project #1: Storm Viewer
+Get started coding in Swift by making an image viewer app and learning key concepts.
+
+[] - FileManager
+
+### Project #2: Guess the flag
+**There's a SwiftUI version - can skip**
+Make a game using UIKit, and learn about integers, buttons, colors and actions.
+
+### Project #3: Social Media
+Let users share to Facebook and Twitter by modifying project 1.
+
+### Milestone #2: Welcome to UIKit
+create an app that lists various world flags in a table view
+
+### Project #4: Easy Browser
+Embed Web Kit and learn about delegation, KVO, classes and UIToolbar.
+**can skip for now**
+
+### Project #5: Word Scramble
+**There's a SwiftUI version - can skip**
+Create an anagram game while learning about closures and booleans.
+
+### Project #6: Auto Layout
+Get to grips with Auto Layout using practical examples and code.
+**can skip for now**
+
+### Milestone #3: WebKit and Closures
+create an app that lets people create a shopping list by adding items to a table view
+
+### Project #7: Whitehouse Petitions
+Make an app to parse Whitehouse petitions using JSON and a tab bar.
+
+[] - JSON
+[] - Codable
+
+### Project #8: 7 Swifty Words
+Build a word-guessing game and master strings once and for all.
+
+[] - UIKit programmatically
+
+### Project #9: Grand Central Dispatch
+Learn how to run complex tasks in the background with GCD.
+
+[] - DispatcQueue
+
+### Milestone #4: JSON and GCD
+make a hangman game using UIKit
+
+### Project #10: Names to Faces
+Get started with UICollectionView and the photo library.
+
+### Project #11: Pachinko
+Dive into SpriteKit to try your hand at fast 2D games.
+
+[] - SpriteKit
+
+### Project #12: UserDefaults
+Learn how to save user settings and data for later use.
+
+### Milestone #5: Collection Views and SpriteKit
+let users take photos of things that interest them, add captions to them, then show those photos in a table view.
+
+### Project #13: Instafilter
+**There's a SwiftUI version**
+Make a photo manipulation program using Core Image filters and a UISlider.
+
+### Project #14: Whack-a-Penguin
+Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
+
+[] - SpriteKit
+[] - DispatcQueue
+
+### Project #15: Animation
+**There's a SwiftUI version**
+Bring your interfaces to life with animation, and meet switch/case at the same time.
+
+### Milestone #6: Core Image and Core Animation
+make an app that contains facts about countries: show a list of country names in a table view, then when one is tapped bring in a new screen that contains its capital city, size, population, currency, and any other facts that interest you. The type of facts you include is down to you – Wikipedia has a huge selection to choose from.
+
+### Project #16: Capital Cities
+Teach users about geography while you learn about MKMapView and annotations.
+
+[] - MapKit
+
+### Project #17: Space Race
+Dodge space debris while you learn about per-pixel collision detection.
+
+[] - SpriteKit
+
+### Project #18: Debugging
+Everyone hits problems sooner or later, so learning to find and fix them is an important skill.
+[] - XCode Use
+
+### Milestone #7: Extensions and Debugging
+make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.
+
+### Project #19: JavaScript Injection
+Extend Safari with a cool feature for JavaScript developers.
+
+### Project #20: Fireworks Night
+Learn about timers and color blends while making things go bang!
+
+[] - SpriteKit
+
+### Project #21: Local Notifications
+Send reminders, prompts and alerts even when your app isn't running.
+
+[] - UNUserNotificationCenter
+
+### Milestone #8: Maps and Notifications
+recreate the iOS Notes app
+
+### Project #22: Detect-a-Beacon
+Learn to find and range iBeacons using our first project for a physical device.
+
+[] - Core Location
+
+### Project #23: Swifty Ninja
+Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
+
+[] - SpriteKit
+
+### Project #24: Swift Strings
+Dive deep into how strings work in Swift, and learn how to add formatting on top.
+
+### Milestone #9: Beacons and extensions
+implement three Swift language extensions using what you learned in project 24
+
+### Project #25: Selfie Share
+Make a multipeer photo sharing app in just 150 lines of code.
+
+[] - MCSession
+
+### Project #26: Marble Maze
+Respond to device tilting by steering a ball around a vortex maze.
+
+[] - SpriteKit
+
+### Project #27: Core Graphics
+Draw 2D shapes using Apple's high-speed drawing framework.
+
+[] - Core Graphics
+
+### Milestone #10: Core Motion and Core Graphics
+create a meme generation app using UIImagePickerController, UIAlertController, and Core Graphics
+
+### Project #28: Secret Swift
+Save user data securely using the device keychain and Touch ID.
+
+[] - iOS Keychain
+
+### Project #29: Exploding Monkeys
+Remake a classic DOS game and learn about destructible terrain and scene transitions.
+
+[] - SpriteKit
+
+### Project #30: Instruments
+Become a bug detective and track down lost memory, slow drawing and more.
+
+[] - XCode Use
+
+### Milestone #11: Secrets and Explosions
+create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs
+
+### Project #31: MultiBrowser
+Get started with UIStackView and see just how easy iPad multitasking is.
+
+[] - UIStackView
+
+### Project #32: SwiftSearcher
+Add your app's content to iOS Spotlight and take advantage of Safari integration.
+
+[] - UITableViewCells
+
+### Project #33: What's that Whistle
+Build a crowd-sourced song recognition app using Apple's free platform as a service: CloudKit.
+
+[] - AVAudioRecorder
+[] - CloudKit
+
+### Project #34: Four in a Row
+Let iOS take over the AI in your games using GameplayKit AI.
+
+[] - GKGameModel
+
+### Project #35: Random Numbers
+Let GameplayKit help you generate random numbers in ways you soon won't be able to live without.
+
+[] - GameplayKit
+
+### Project #36: Crashy Plane
+Ever wanted to make a Flappy Bird clone? Now you can do it in under an hour thanks to SpriteKit.
+
+[] - SpriteKit
+
+### Project #37: Psychic Tester
+Are you psychic? Of course not. But what if we could use our coding skills to make a game to fool your friends into thinking otherwise?
+
+[] - Watch app
+[] - Storyboard
+
+### Project #38: GitHub Commits
+Get started with Core Data by building an app to fetch and store GitHub commits for Swift.
+
+[] - Core Data
+
+### Project #39: Unit testing with XCTest
+Learn how to write unit tests and user interface tests using Xcode's built-in testing framework.
+[] - XCTest
+
+***
+
+## My Projects
+### Project #15: Pomodoro
 [**Pomodoro**](https://github.com/LeTarrask/Pomodoro)
 
 [] - Mac OS
@@ -10,14 +293,14 @@
 [] - SwiftLint
 [] - SwiftUI
 
-## Project #14: 5ed SRD Reader for Mac
+### Project #14: 5ed SRD Reader for Mac
 **Repo not started yet**
 
 [] - Mac OS
 [] - Web requests to API
 [] - Decoding JSON
 
-## Project #13: AE Euro Counter
+### Project #13: AE Euro Counter
 [**Euro Counter**](https://github.com/LeTarrask/Euro-Counter)
 
 [] - ML Training
@@ -27,7 +310,7 @@
 [] - Live camera feed (UIKit framework used in SwiftUI)
 [] -
 
-## Project #12: Mileage Tracker
+### Project #12: Mileage Tracker
 [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker)
 
 [] - iOS
@@ -58,7 +341,7 @@
 [] - Extension double - clean and rounded for UI reasons
 [] -
 
-## Project #11: Dobble
+### Project #11: Dobble
 [**Dobble**](https://github.com/LeTarrask/Dobble)
 
 [] - Podfile
@@ -72,7 +355,7 @@
 [] - iOS built
 [] - SwiftUI
 
-## Project #10: Tobem Ipsum
+### Project #10: Tobem Ipsum
 [**Tobem Ipsum**](https://github.com/LeTarrask/Tobem-Ipsum)
 
 [] - Mac OS
@@ -85,7 +368,7 @@
 [] - SwiftLint
 [] - SwiftUI
 
-## Project #9: 2048
+### Project #9: 2048
 [**2048**](https://github.com/LeTarrask/2048)
 
 [] - Podfile
@@ -106,7 +389,7 @@
 [] - iOS built
 [] - SwifUI
 
-## Project #8: Paradoxes
+### Project #8: Paradoxes
 [**Paradoxes**](https://github.com/LeTarrask/Paradoxes)
 
 [] - Animation
@@ -114,7 +397,7 @@
 [] - ternary conditionals
 [] - SwiftUI
 
-## Project #7: Mara:
+### Project #7: Mara:
 **Private Repo**
 
 [] - ML training / use in app
@@ -124,14 +407,14 @@
 [] - File deleting
 [] - SwiftUI
 
-## Project #6: Creative Gym
+### Project #6: Creative Gym
 [**Creative Gym**](https://github.com/LeTarrask/Creative-Gym)
 
 [] - Complex data models
 [] - iOS
 [] - SwiftUI
 
-## Project #5: Dualogue
+### Project #5: Dualogue
 [**Dualogue**](https://github.com/LeTarrask/Dualogue)
 
 [] - Core Data
@@ -145,7 +428,7 @@
 [] - iOS
 [] - SwiftUI
 
-## Project #4: Dreadline
+### Project #4: Dreadline
 [**Dreadline**](https://github.com/LeTarrask/Dreadline)
 
 [] - Mac OS
@@ -154,19 +437,19 @@
 [] - Uses storyboard
 [] - Email sending
 
-## Project #3: Iniciativer
+### Project #3: Iniciativer
 [**Iniciativer**](https://github.com/LeTarrask/Iniciativer)
 
 [] - iOS
 [] - SwiftUI
 
-## Project #2: SwiftUI Placeholder
+### Project #2: SwiftUI Placeholder
 [**SwiftUI Placeholder**](https://github.com/LeTarrask/SwiftUI-Placeholder)
 
 [] - SwiftUI
 [] - Geometry Reader
 
-## Project #1: 1 milhão de folhas
+### Project #1: 1 milhão de folhas
 [**1 milhão de folhas**](https://github.com/LeTarrask/1-milh-o-de-folhas)
 
 [] - Published project
