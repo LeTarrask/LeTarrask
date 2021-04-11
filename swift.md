@@ -102,11 +102,26 @@ Turn VStacks into Form Sections, Replace a stepper with a picker, show a textvie
 ### Project #5: Word Scramble
 Build a letter rearranging game with List
 1- Techniques:
+[] - List, onAppear(), Bundle, fatalError()
+[] - Opening files
+[] - String operations
+[] - .trimmingCharacters(in: .whitespacesAndNewlines) -> to remove whitespaces and lines, for example, in a string
+[] - UITextChecker()
+[] - Character encoding
+[] - .autocapitalization(.none)
+[] -
+
 2- Step-by-step:
+Criar a lista, criar os inputs, quatro condicionais para checar as palavras, um método de init que abre o arquivo, profit.
+
 3- Challenges:
+
 
 ### Project #6: Animation
 Spruce up your UI with springs, bounces, and more
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #7: iExpense
 Bring in a second view with this expense tracking app
