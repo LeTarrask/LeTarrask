@@ -191,34 +191,61 @@ Start creating the screens, uses a single Class to hold all the data, that's pas
 
 3- Challenges:
 Validate user input so it doesn't have empty spaces (did this by adding: .trimmingCharacters(in: .whitespacesAndNewlines) to the current checks), added an error message in case the response data is not what we're expecting, apologizing for the inconvencience, the third task is a complete refactor of the project, so I'll postpone it. (see if you can convert our data model from a class to a struct,
-then create an ObservableObject class wrapper around it that gets passed around. This will result in your class having one @Published property, which is the data struct inside it, and should make supporting Codable on the struct much easier.) 
+then create an ObservableObject class wrapper around it that gets passed around. This will result in your class having one @Published property, which is the data struct inside it, and should make supporting Codable on the struct much easier.)
 
 ### Project #11: Bookworm
 Use Core Data to build an app that tracks books you like
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #12: Core Data
 Take an in-depth tour of how SwiftUI and Core Data work together
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #13: Instafilter
 Learn to link SwiftUI, UIKit, and Core Image in one app
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #14: Bucket List
 Embed maps and make network calls in this life goals app
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #15: Accessibility
 Learn how to make your apps available to everyone
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #16: Hot Prospects
 Build an app for conferences with tabs, context menus, and more.
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #17: Flashzilla
 Use gestures and haptics to build a learning app.
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #18: Layout and Geometry
 Explore the inner workings of SwiftUI's layout system.
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #19: SnowSeeker
 Build an app for ski resorts that works great on iPad.
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ***
 
