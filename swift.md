@@ -168,7 +168,14 @@ crew names (it was supposed to be hard, and found it kinda simple.)
 ### Project #9: Drawing
 Use shapes, paths, colors, and more to create custom art for your app
 1- Techniques:
+[] - AffineTransform
+[] - insettable Shape
+[] - Blurs and blending
+[] - Animating shapes with animatableData
+
 2- Step-by-step:
+A tutorial for each of the techniques, all saved in the xcode project.
+
 3- Challenges:
 
 ### Project #10: Cupcake Corner
