@@ -115,16 +115,29 @@ Build a letter rearranging game with List
 Criar a lista, criar os inputs, quatro condicionais para checar as palavras, um método de init que abre o arquivo, profit.
 
 3- Challenges:
-
+Add checks for word lenght or if it's the same as initial word, add nav button to start game,
 
 ### Project #6: Animation
 Spruce up your UI with springs, bounces, and more
 1- Techniques:
+[] - scaleEffect, blur, easeOut, .interpolatingSpring(stiffness: 50, damping: 1)
+[] -
+[]
+
 2- Step-by-step:
+There are a lot of animation parameters explained in this chapter. It's a mix between documentation and testing. For example, this:
+.animation(Animation.easeInOut(duration: 2).repeatCount(3, autoreverses: true))
+rotation3DEffect()
+Created different views with all the animation exercises
+
 3- Challenges:
+In the Guess the Flag project, tap the correct flag, make it spin around 360 degrees on the Y axis; make the other two buttons fade out to 25% opacity; tap on the wrong flag (personally, I chose to make the background show a red rectangle.)
 
 ### Project #7: iExpense
 Bring in a second view with this expense tracking app
+1- Techniques:
+2- Step-by-step:
+3- Challenges:
 
 ### Project #8: Moonshot
 Teach users about space history with scroll views, Codable, and more
