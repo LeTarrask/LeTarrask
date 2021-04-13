@@ -253,6 +253,17 @@ filter; experiment with having more than one slider, to control each of the inpu
 ### Project #14: Bucket List
 Embed maps and make network calls in this life goals app
 1- Techniques:
+[] - Codable
+[] - URLSession
+[] - Embed Maps with MapKit
+[] - iOS storage
+[] - Coordinators
+[] - Adding conformance to Comparable for custom types
+[] - File manager class to store stuff in app directory
+[] - Switching view states with enums
+[] - Touch ID and Face ID
+[] - 
+
 2- Step-by-step:
 3- Challenges:
 
