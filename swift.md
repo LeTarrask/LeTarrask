@@ -272,13 +272,29 @@ Created a specific project just with the embeded mapview for swiftui and all the
 After that, we do implement codable and a loading state to query from wikipedia and get data from nearby places, and then store all the info in a JSON file encrypted in memory. We also use FaceID or TouchID to secure the app's data.
 
 3- Challenges:
-Our + button is rather hard to tap. Try moving all its modifiers to the image inside the button (the answer is that only the + was the actionable view, and with all the modifiers inside the button, all of them are now clickable); 
+Our + button is rather hard to tap. Try moving all its modifiers to the image inside the button (the answer is that only the + was the actionable view, and with all the modifiers inside the button, all of them are now clickable); Having a complex if condition in the middle of ContentView isn’t easy to read – can you rewrite it so that the MapView, Circle, and Button are part of their own view? (instead of putting MapView, Circle and Button in another view, I put the LocalAuthentication code in a view that's presented before, and if the @State value is changed, presents the ContentView. :) ); Add code to show those errors in an alert.
 
 ### Project #15: Accessibility
 Learn how to make your apps available to everyone
 1- Techniques:
+[] - .accesibility(label: Text()) - to simply tell over VoiceOver what something is
+[] - .accessibility(hint:) - a long description that hints on the usage of something
+[] - accesibility(addTraits: ) - to explain what that View is
+[] - accesibility(removeTraits: .isImage) - to ignore describing an Image
+[] - Image(decorative: ) - for something that doesn't need to be described in VoiceOver
+[] - .accessibility(hidden: true) - makes something completely hidden to accessibility system
+[] - .accessibilityElement(children: .combine) - to combine elements in a stack or group (like a few texts that shoulb be read together)
+[] - .accessibilityElement(children: .ignore)
+.accessibility(label: Text("Your score is 1000")) - can be used together to create a better reading experience
+[] - .accessibility(value: Text("\(Int(estimate))")) - can be used to improve the reading of a slider, for example, and uses Int to be easier.
+
 2- Step-by-step:
+Fixing Guess the Flag.
+Fixing Word Scramble.
+Fixing Bookworm
+
 3- Challenges:
+Check out view in Cupcake Corner uses an image that doesn’t add anything to the UI (added the decorative: init to it); fix the steppers in BetterRest; full accesibility review of MoonShot (not today Satan).
 
 ### Project #16: Hot Prospects
 Build an app for conferences with tabs, context menus, and more.
