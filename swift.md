@@ -347,19 +347,40 @@ reduceTransparency - reduces the use of transparency
 It's one of the largest projects, but it's very interesting. The possibility of creating a stack of cards with shades, movement and all was great. It is all full of accessibility elements, which area also nice.
 
 3- Challenges:
-Make something interesting for when the timer runs out (added an alert - not interesting, but I'm tired); 
+Make something interesting for when the timer runs out (added an alert - not interesting, but I'm tired);
 
 ### Project #18: Layout and Geometry
 Explore the inner workings of SwiftUI's layout system.
 1- Techniques:
+[] - .lastTextBaseline
+[] - alignmentGuide()
+[] - GeometryReader
+[] - custom alignment Modifiers
+
 2- Step-by-step:
+Just to create a few different views using the geometry reader and a few modifiers. They're stored in the project in the folder. The challenges are much more practices, in our current projects.
+
 3- Challenges:
+Change project 8 (Moonshot) so that when you scroll down in MissionView the mission badge image gets smaller;
 
 ### Project #19: SnowSeeker
 Build an app for ski resorts that works great on iPad.
 1- Techniques:
+[] - NavigationView and how views work in split screens (ex: iPads)
+[] - Showing alerts when optional properties are set. This is way simpler than the way we've been using alerts. For example, there's an optional error. It only will show the alert when the error is created.
+[] - Using Group to merge several views and later define their layout.
+[] - sizeClass: .compact (small devices)
+[] - To initialize a view inside a VStack, for example: VStack(content: UserView.init)
+[] - ListFormatter - same behavior as joining an array of strings, but adds an "and" before the last one.
+[] - Spacer.frame(height: 0) - for a spacer only work in horizontal formats
+
 2- Step-by-step:
+We have a model, decode from JSON, show it. All stuff we've seen before. The fun part is how the navigation views work in different Apple devices, the large ones and the small ones. This is the more challenging stuff, that we've not seen before.
+This project is also suggested as a template app, to show objects and its details.
+
 3- Challenges:
+Add a photo credit over the ResortView image; Fill in the loading and saving methods for Favorites; For a real challenge, let the user sort and filter the resorts in ContentView. For sorting
+use default, alphabetical, and country, and for filtering let them select country, size, or price (postponed).
 
 ***
 
@@ -367,6 +388,12 @@ Build an app for ski resorts that works great on iPad.
 
 ### Milestone #1: Learning the Swift Language
 Fizz Buzz test
+1- Techniques:
+[] -
+
+2- Step-by-step:
+3- Challenges:
+
 
 ### Project #1: Storm Viewer
 Get started coding in Swift by making an image viewer app and learning key concepts.
