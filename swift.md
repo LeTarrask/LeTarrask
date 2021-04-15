@@ -5,6 +5,7 @@ My idea is to speed run through these projects, assessing what I already know, b
 All the projects will be stored in one single repo.
 
 ## Hacking With SwiftUI Projects
+Completed all projects in 15/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 ### Project #1: WeSplit
 A check-splitting app
 1- Techniques:
@@ -389,10 +390,12 @@ use default, alphabetical, and country, and for filtering let them select countr
 ### Milestone #1: Learning the Swift Language
 Fizz Buzz test
 1- Techniques:
-[] -
+[] - A quick explanation of swift language.
 
 2- Step-by-step:
+
 3- Challenges:
+Basically, fizzbuzz exercise. I remember from Pro Swift that it can be done with a switch, and that will be my solution, although not very original. Funcionou, mas eu precisava relembrar a maneira de escrever a tuple de entrada e de comparação dos casos.
 
 
 ### Project #1: Storm Viewer
