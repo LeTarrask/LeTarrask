@@ -467,6 +467,7 @@ We reuse a lot of knowledge here, like AlertController, actions, tableview. In t
 3- Challenges:
 Disallow answers that are shorter than three letters or are just our start word (the tip is almost the answer); Refactor all the else statements we just added so that they call a new method called showErrorMessage(). This should accept an error message and a title, and do all the UIAlertController work from there; Add a left bar button item that calls startGame(); BONUS: fix a bug.
 
+
 ### Project #6: Auto Layout
 Get to grips with Auto Layout using practical examples and code.
 **can skip for now**
@@ -481,11 +482,17 @@ Get to grips with Auto Layout using practical examples and code.
 ### Milestone #3: WebKit and Closures
 create an app that lets people create a shopping list by adding items to a table view
 1- Techniques:
-[] -
+[] - Delegation
+[] - UIAlertController
+[] - UIBarButtonItems
+[] - KVO
+[] - contentsOf to read files
+[] - contains(), remove(at: ), firstIndex(of:)
+[] - AutoLayout (I skipped it.)
+[] - try?, try!, and unwrapping optionals.
 
 2- Step-by-step:
-
-3- Challenges:
+Create a tableview, insert elements into it, update it's values when they change (missing SwiftUI already), sharing it with a popoverPresentationController
 
 
 ### Project #7: Whitehouse Petitions
