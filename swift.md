@@ -429,6 +429,25 @@ something like “Wrong! That’s the flag of France,” for example (added a me
 ### Project #3: Social Media
 Let users share to Facebook and Twitter by modifying project 1.
 1- Techniques:
+[] - Simple project to create an ActivityViewController and genereate a share screen
+
+2- Step-by-step:
+
+3- Challenges:
+Try adding the image name to the list of items that are shared. The activityItems parameter is an array, so you can add strings and other things freely (It's just a matter of adding the string to the array); Add a bar button item to the main view controller that recommends the app (it's just a matter of repeating the tutorial); Add a bar button item that shows their score when tapped (this challenge is also a practice one).
+
+### Milestone #2: Welcome to UIKit
+create an app that lists various world flags in a table view
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
+### Project #4: Easy Browser
+Embed Web Kit and learn about delegation, KVO, classes and UIToolbar.
+1- Techniques:
 [] -
 
 2- Step-by-step:
@@ -436,203 +455,496 @@ Let users share to Facebook and Twitter by modifying project 1.
 3- Challenges:
 
 
-### Milestone #2: Welcome to UIKit
-create an app that lists various world flags in a table view
-
-### Project #4: Easy Browser
-Embed Web Kit and learn about delegation, KVO, classes and UIToolbar.
-
 ### Project #5: Word Scramble
 **There's a SwiftUI version - can skip**
 Create an anagram game while learning about closures and booleans.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #6: Auto Layout
 Get to grips with Auto Layout using practical examples and code.
 **can skip for now**
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Milestone #3: WebKit and Closures
 create an app that lets people create a shopping list by adding items to a table view
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #7: Whitehouse Petitions
 Make an app to parse Whitehouse petitions using JSON and a tab bar.
-
+1- Techniques:
 [] - JSON
 [] - Codable
 
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 ### Project #8: 7 Swifty Words
 Build a word-guessing game and master strings once and for all.
-
+1- Techniques:
 [] - UIKit programmatically
+
+2- Step-by-step:
+
+3- Challenges:
+
+
 
 ### Project #9: Grand Central Dispatch
 Learn how to run complex tasks in the background with GCD.
-
+1- Techniques:
 [] - DispatcQueue
+
+2- Step-by-step:
+
+3- Challenges:
+
+
 
 ### Milestone #4: JSON and GCD
 make a hangman game using UIKit
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #10: Names to Faces
 Get started with UICollectionView and the photo library.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #11: Pachinko
 Dive into SpriteKit to try your hand at fast 2D games.
-
+1- Techniques:
 [] - SpriteKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #12: UserDefaults
 Learn how to save user settings and data for later use.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Milestone #5: Collection Views and SpriteKit
 let users take photos of things that interest them, add captions to them, then show those photos in a table view.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #13: Instafilter
 **There's a SwiftUI version**
 Make a photo manipulation program using Core Image filters and a UISlider.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #14: Whack-a-Penguin
 Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
-
+1- Techniques:
 [] - SpriteKit
 [] - DispatcQueue
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #15: Animation
 **There's a SwiftUI version**
 Bring your interfaces to life with animation, and meet switch/case at the same time.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Milestone #6: Core Image and Core Animation
 make an app that contains facts about countries: show a list of country names in a table view, then when one is tapped bring in a new screen that contains its capital city, size, population, currency, and any other facts that interest you. The type of facts you include is down to you – Wikipedia has a huge selection to choose from.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #16: Capital Cities
 Teach users about geography while you learn about MKMapView and annotations.
-
+1- Techniques:
 [] - MapKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #17: Space Race
 Dodge space debris while you learn about per-pixel collision detection.
-
+1- Techniques:
 [] - SpriteKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #18: Debugging
 Everyone hits problems sooner or later, so learning to find and fix them is an important skill.
+1- Techniques:
 [] - XCode Use
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Milestone #7: Extensions and Debugging
 make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #19: JavaScript Injection
 Extend Safari with a cool feature for JavaScript developers.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #20: Fireworks Night
 Learn about timers and color blends while making things go bang!
-
+1- Techniques:
 [] - SpriteKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #21: Local Notifications
 Send reminders, prompts and alerts even when your app isn't running.
-
+1- Techniques:
 [] - UNUserNotificationCenter
+
+2- Step-by-step:
+
+3- Challenges:
+
+
 
 ### Milestone #8: Maps and Notifications
 recreate the iOS Notes app
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #22: Detect-a-Beacon
 Learn to find and range iBeacons using our first project for a physical device.
-
+1- Techniques:
 [] - Core Location
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #23: Swifty Ninja
 Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
-
+1- Techniques:
 [] - SpriteKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
 
 ### Project #24: Swift Strings
 Dive deep into how strings work in Swift, and learn how to add formatting on top.
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Milestone #9: Beacons and extensions
 implement three Swift language extensions using what you learned in project 24
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #25: Selfie Share
 Make a multipeer photo sharing app in just 150 lines of code.
-
+1- Techniques:
 [] - MCSession
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #26: Marble Maze
 Respond to device tilting by steering a ball around a vortex maze.
-
+1- Techniques:
 [] - SpriteKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #27: Core Graphics
 Draw 2D shapes using Apple's high-speed drawing framework.
-
+1- Techniques:
 [] - Core Graphics
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Milestone #10: Core Motion and Core Graphics
 create a meme generation app using UIImagePickerController, UIAlertController, and Core Graphics
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #28: Secret Swift
 Save user data securely using the device keychain and Touch ID.
-
+1- Techniques:
 [] - iOS Keychain
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #29: Exploding Monkeys
 Remake a classic DOS game and learn about destructible terrain and scene transitions.
-
+1- Techniques:
 [] - SpriteKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #30: Instruments
 Become a bug detective and track down lost memory, slow drawing and more.
-
+1- Techniques:
 [] - XCode Use
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Milestone #11: Secrets and Explosions
 create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #31: MultiBrowser
 Get started with UIStackView and see just how easy iPad multitasking is.
-
+1- Techniques:
 [] - UIStackView
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #32: SwiftSearcher
 Add your app's content to iOS Spotlight and take advantage of Safari integration.
-
+1- Techniques:
 [] - UITableViewCells
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #33: What's that Whistle
 Build a crowd-sourced song recognition app using Apple's free platform as a service: CloudKit.
-
+1- Techniques:
 [] - AVAudioRecorder
 [] - CloudKit
 
+2- Step-by-step:
+
+3- Challenges:
+
+
+
+
 ### Project #34: Four in a Row
 Let iOS take over the AI in your games using GameplayKit AI.
-
+1- Techniques:
 [] - GKGameModel
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #35: Random Numbers
 Let GameplayKit help you generate random numbers in ways you soon won't be able to live without.
-
+1- Techniques:
 [] - GameplayKit
+
+2- Step-by-step:
+
+3- Challenges:
+
+
+
 
 ### Project #36: Crashy Plane
 Ever wanted to make a Flappy Bird clone? Now you can do it in under an hour thanks to SpriteKit.
-
+1- Techniques:
 [] - SpriteKit
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ### Project #37: Psychic Tester
 Are you psychic? Of course not. But what if we could use our coding skills to make a game to fool your friends into thinking otherwise?
-
+1- Techniques:
 [] - Watch app
 [] - Storyboard
 
+2- Step-by-step:
+
+3- Challenges:
+
+
+
+
 ### Project #38: GitHub Commits
 Get started with Core Data by building an app to fetch and store GitHub commits for Swift.
-
+1- Techniques:
 [] - Core Data
+
+2- Step-by-step:
+
+3- Challenges:
+
+
 
 ### Project #39: Unit testing with XCTest
 Learn how to write unit tests and user interface tests using Xcode's built-in testing framework.
 [] - XCTest
+1- Techniques:
+[] -
+
+2- Step-by-step:
+
+3- Challenges:
+
 
 ***
 
