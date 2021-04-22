@@ -442,6 +442,7 @@ create an app that lists various world flags in a table view
 [] -
 
 2- Step-by-step:
+Repeating a lot of techniques from the previous 3 projects, we load flag images from the bundle, show them in a tableview in a TableViewController, show it larger in a DetailView and then share it with the tap of a button. This exercise is more of a memorization thing.
 
 3- Challenges:
 
