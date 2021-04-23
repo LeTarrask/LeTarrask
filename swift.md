@@ -578,6 +578,7 @@ O primeiro challenge é só colocar um Alert Controller; o segundo é usar a câ
 ### Project #11: Pachinko
 Dive into SpriteKit to try your hand at fast 2D games.
 1- Techniques:
+**Sprite Kit**
 [] - SpriteKit
 
 2- Step-by-step:
@@ -585,20 +586,22 @@ Dive into SpriteKit to try your hand at fast 2D games.
 3- Challenges:
 
 
-
-
 ### Project #12: UserDefaults
 Learn how to save user settings and data for later use.
 1- Techniques:
-[] -
+[] - NSCoding
+[] - Codable
+[] - UserDefaults
 
 2- Step-by-step:
+We save the data from project 10 using NSCoding, and store it in UserDefaults. After that, we do the same thing, but instead turning the Model into a Codable, which is quite easier, because we don't have to explain to it how to do its job.
 
 3- Challenges:
-
+The challenges are to apply this knowledge int old projects. Project 1 so that it remembers how many times each storm image was shown; Project 2 so that it saves the player’s highest score (could do it, but would deprecate the game over situation); Project 5 so that it saves the current word and all the player’s entries to UserDefalts.
 
 ### Milestone #5: Collection Views and SpriteKit
 let users take photos of things that interest them, add captions to them, then show those photos in a table view.
+**Sprite Kit**
 1- Techniques:
 [] -
 
@@ -620,6 +623,7 @@ Make a photo manipulation program using Core Image filters and a UISlider.
 
 ### Project #14: Whack-a-Penguin
 Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
+**Sprite Kit**
 1- Techniques:
 [] - SpriteKit
 [] - DispatcQueue
@@ -654,6 +658,8 @@ make an app that contains facts about countries: show a list of country names in
 
 ### Project #16: Capital Cities
 Teach users about geography while you learn about MKMapView and annotations.
+**There's a SwiftUI version**
+
 1- Techniques:
 [] - MapKit
 
@@ -662,18 +668,15 @@ Teach users about geography while you learn about MKMapView and annotations.
 3- Challenges:
 
 
-
-
 ### Project #17: Space Race
 Dodge space debris while you learn about per-pixel collision detection.
+**Sprite Kit**
 1- Techniques:
 [] - SpriteKit
 
 2- Step-by-step:
 
 3- Challenges:
-
-
 
 
 ### Project #18: Debugging
@@ -708,6 +711,7 @@ Extend Safari with a cool feature for JavaScript developers.
 
 ### Project #20: Fireworks Night
 Learn about timers and color blends while making things go bang!
+**Sprite Kit**
 1- Techniques:
 [] - SpriteKit
 
@@ -749,10 +753,9 @@ Learn to find and range iBeacons using our first project for a physical device.
 3- Challenges:
 
 
-
-
 ### Project #23: Swifty Ninja
 Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
+**Sprite Kit**
 1- Techniques:
 [] - SpriteKit
 
@@ -792,10 +795,9 @@ Make a multipeer photo sharing app in just 150 lines of code.
 3- Challenges:
 
 
-
-
 ### Project #26: Marble Maze
 Respond to device tilting by steering a ball around a vortex maze.
+**Sprite Kit**
 1- Techniques:
 [] - SpriteKit
 
@@ -842,14 +844,13 @@ Save user data securely using the device keychain and Touch ID.
 
 ### Project #29: Exploding Monkeys
 Remake a classic DOS game and learn about destructible terrain and scene transitions.
+**Sprite Kit**
 1- Techniques:
 [] - SpriteKit
 
 2- Step-by-step:
 
 3- Challenges:
-
-
 
 
 ### Project #30: Instruments
@@ -860,7 +861,6 @@ Become a bug detective and track down lost memory, slow drawing and more.
 2- Step-by-step:
 
 3- Challenges:
-
 
 
 
@@ -885,7 +885,6 @@ Get started with UIStackView and see just how easy iPad multitasking is.
 
 
 
-
 ### Project #32: SwiftSearcher
 Add your app's content to iOS Spotlight and take advantage of Safari integration.
 1- Techniques:
@@ -897,9 +896,9 @@ Add your app's content to iOS Spotlight and take advantage of Safari integration
 
 
 
-
 ### Project #33: What's that Whistle
 Build a crowd-sourced song recognition app using Apple's free platform as a service: CloudKit.
+**Sprite Kit**
 1- Techniques:
 [] - AVAudioRecorder
 [] - CloudKit
@@ -907,7 +906,6 @@ Build a crowd-sourced song recognition app using Apple's free platform as a serv
 2- Step-by-step:
 
 3- Challenges:
-
 
 
 
@@ -922,7 +920,6 @@ Let iOS take over the AI in your games using GameplayKit AI.
 
 
 
-
 ### Project #35: Random Numbers
 Let GameplayKit help you generate random numbers in ways you soon won't be able to live without.
 1- Techniques:
@@ -934,9 +931,9 @@ Let GameplayKit help you generate random numbers in ways you soon won't be able 
 
 
 
-
 ### Project #36: Crashy Plane
 Ever wanted to make a Flappy Bird clone? Now you can do it in under an hour thanks to SpriteKit.
+**Sprite Kit**
 1- Techniques:
 [] - SpriteKit
 
@@ -957,7 +954,6 @@ Are you psychic? Of course not. But what if we could use our coding skills to ma
 
 
 
-
 ### Project #38: GitHub Commits
 Get started with Core Data by building an app to fetch and store GitHub commits for Swift.
 1- Techniques:
@@ -966,7 +962,6 @@ Get started with Core Data by building an app to fetch and store GitHub commits 
 2- Step-by-step:
 
 3- Challenges:
-
 
 
 ### Project #39: Unit testing with XCTest
