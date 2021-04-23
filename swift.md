@@ -787,7 +787,7 @@ Dive deep into how strings work in Swift, and learn how to add formatting on top
 This is not a project, but a playground where we do some experimentation with NSAttributedString methods, and a few String ones, such as isEmpty, and adding extensions to remove prefixes and suffixes.
 
 3- Challenges:
-
+Create a String extension that adds a withPrefix() method. If the string already contains the prefix it should return itself; if it doesn’t contain the prefix, it should return itself with the prefix added; Create a String extension that adds an isNumeric property that returns true if the string holds any sort of number; Create a String extension that adds a lines property that returns an array of all the lines in a string.
 
 ### Milestone #9: Beacons and extensions
 implement three Swift language extensions using what you learned in project 24
@@ -802,11 +802,18 @@ implement three Swift language extensions using what you learned in project 24
 ### Project #25: Selfie Share
 Make a multipeer photo sharing app in just 150 lines of code.
 1- Techniques:
+[] - Review of CollectionView like project 10 (we basically redo project 10)
+[] - implement ImagePicker
 [] - MCSession
+[] - Connection betweet 2 apple device
+[] - extension to ViewController (I did it, wasn't in the project)
+[] - MCSessionDelegate and it's 6 necessary methods
 
 2- Step-by-step:
+We cloned project 10, and then implemented the MCSession features so the image is automagically shared with other apple devices that run the same apps and are connected with us.
 
 3- Challenges:
+Show an alert when a user has disconnected from our multipeer network; Try sending text messages across the network (Didn't); Add a button that shows an alert controller listing the names of all devices currently connected to the session – use the connectedPeers property (Didn't).
 
 
 ### Project #26: Marble Maze
