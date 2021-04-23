@@ -599,6 +599,7 @@ We save the data from project 10 using NSCoding, and store it in UserDefaults. A
 3- Challenges:
 The challenges are to apply this knowledge int old projects. Project 1 so that it remembers how many times each storm image was shown; Project 2 so that it saves the player’s highest score (could do it, but would deprecate the game over situation); Project 5 so that it saves the current word and all the player’s entries to UserDefalts.
 
+
 ### Milestone #5: Collection Views and SpriteKit
 let users take photos of things that interest them, add captions to them, then show those photos in a table view.
 **Sprite Kit**
@@ -631,7 +632,6 @@ Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
 2- Step-by-step:
 
 3- Challenges:
-
 
 
 
@@ -683,10 +683,14 @@ Dodge space debris while you learn about per-pixel collision detection.
 Everyone hits problems sooner or later, so learning to find and fix them is an important skill.
 1- Techniques:
 [] - XCode Use
+[] - assert
+[] - break points and how to customize and analise them
 
 2- Step-by-step:
+This project is just about to see the debugging tools we have in XCode. Stuff I'm not currently using too much: assert inside my code (don't worry, this doesn't go to production code, just in XCode debugging), and break points to see WTF is wrong with the code I write.
 
 3- Challenges:
+The challenges are to use the techniques: add an exception breakpoint into project 1, adding an assert in project 1 as well, and add a conditional breakpoint if the user does something wrong. These challenges don't change final code output though, so won't be commited.
 
 
 ### Milestone #7: Extensions and Debugging
