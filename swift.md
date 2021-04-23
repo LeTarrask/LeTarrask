@@ -827,8 +827,6 @@ Respond to device tilting by steering a ball around a vortex maze.
 3- Challenges:
 
 
-
-
 ### Project #27: Core Graphics
 Draw 2D shapes using Apple's high-speed drawing framework.
 **can skip for now**
@@ -838,8 +836,6 @@ Draw 2D shapes using Apple's high-speed drawing framework.
 2- Step-by-step:
 
 3- Challenges:
-
-
 
 
 ### Milestone #10: Core Motion and Core Graphics
@@ -881,15 +877,17 @@ Remake a classic DOS game and learn about destructible terrain and scene transit
 Become a bug detective and track down lost memory, slow drawing and more.
 1- Techniques:
 [] - XCode Use
+[] - cmd+I to launch Instruments
 
 2- Step-by-step:
+We run through a series of weird problems that can be detected by using instruments and then fix them.
 
 3- Challenges:
-
+Apply these instruments readings in projects 29, 30, and other projects.
 
 
 ### Milestone #11: Secrets and Explosions
-create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs
+Create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs
 1- Techniques:
 [] -
 
