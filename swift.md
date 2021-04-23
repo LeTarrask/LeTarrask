@@ -6,6 +6,7 @@ All the projects will be stored in one single repo.
 
 ## Hacking With SwiftUI Projects
 Completed all projects in 15/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
+
 ### Project #1: WeSplit
 A check-splitting app
 1- Techniques:
@@ -110,7 +111,6 @@ Build a letter rearranging game with List
 [] - UITextChecker()
 [] - Character encoding
 [] - .autocapitalization(.none)
-[] -
 
 2- Step-by-step:
 Criar a lista, criar os inputs, quatro condicionais para checar as palavras, um método de init que abre o arquivo, profit.
@@ -122,8 +122,6 @@ Add checks for word lenght or if it's the same as initial word, add nav button t
 Spruce up your UI with springs, bounces, and more
 1- Techniques:
 [] - scaleEffect, blur, easeOut, .interpolatingSpring(stiffness: 50, damping: 1)
-[] -
-[]
 
 2- Step-by-step:
 There are a lot of animation parameters explained in this chapter. It's a mix between documentation and testing. For example, this:
@@ -150,6 +148,7 @@ Pretty similar to some aspects of Mileage Tracker, and some solutions I found th
 3- Challenges:
 add edit/done button to contentview, modify each expense layout according to value, add validation to addview, showing alert if wrong input
 
+
 ### Project #8: Moonshot
 Teach users about space history with scroll views, Codable, and more
 1- Techniques:
@@ -166,11 +165,12 @@ Decode the provided jsons and images to show them in an organized, structured wa
 Add mission date to one view (trivial), Modify AstronautView to show all the missions this astronaut flew on (got super struck and had to ask for help), Make a bar button in ContentView that toggles between showing launch dates and showing
 crew names (it was supposed to be hard, and found it kinda simple.)
 
+
 ### Project #9: Drawing
 Use shapes, paths, colors, and more to create custom art for your app
 1- Techniques:
 [] - AffineTransform
-[] - insettable Shape
+[] - insettableShape
 [] - Blurs and blending
 [] - Animating shapes with animatableData
 
@@ -191,8 +191,8 @@ Build an app that sends and receives JSON from the internet
 Start creating the screens, uses a single Class to hold all the data, that's passed around the views, and has all the data validation methods inside it. Complicated part is when we have to add Codable to the class. After that, did a url request to a mockup server, sending the order encoded in JSON and decoded the response as well.
 
 3- Challenges:
-Validate user input so it doesn't have empty spaces (did this by adding: .trimmingCharacters(in: .whitespacesAndNewlines) to the current checks), added an error message in case the response data is not what we're expecting, apologizing for the inconvencience, the third task is a complete refactor of the project, so I'll postpone it. (see if you can convert our data model from a class to a struct,
-then create an ObservableObject class wrapper around it that gets passed around. This will result in your class having one @Published property, which is the data struct inside it, and should make supporting Codable on the struct much easier.)
+Validate user input so it doesn't have empty spaces (did this by adding: .trimmingCharacters(in: .whitespacesAndNewlines) to the current checks), added an error message in case the response data is not what we're expecting, apologizing for the inconvencience, the third task is a complete refactor of the project, so I'll postpone it. (see if you can convert our data model from a class to a struct, then create an ObservableObject class wrapper around it that gets passed around. This will result in your class having one @Published property, which is the data struct inside it, and should make supporting Codable on the struct much easier.)
+
 
 ### Project #11: Bookworm
 Use Core Data to build an app that tracks books you like
@@ -251,6 +251,7 @@ Creating the first view, and using a if to show there's a lack of image. Creatin
 Making the Save button show an error if there was no image in the image view; make the Change Filter button change its title to show the name of the currently selected
 filter; experiment with having more than one slider, to control each of the input keys you care about (POSTPONED). For example, you might have one for radius and one for intensity
 
+
 ### Project #14: Bucket List
 Embed maps and make network calls in this life goals app
 1- Techniques:
@@ -275,6 +276,7 @@ After that, we do implement codable and a loading state to query from wikipedia 
 3- Challenges:
 Our + button is rather hard to tap. Try moving all its modifiers to the image inside the button (the answer is that only the + was the actionable view, and with all the modifiers inside the button, all of them are now clickable); Having a complex if condition in the middle of ContentView isn’t easy to read – can you rewrite it so that the MapView, Circle, and Button are part of their own view? (instead of putting MapView, Circle and Button in another view, I put the LocalAuthentication code in a view that's presented before, and if the @State value is changed, presents the ContentView. :) ); Add code to show those errors in an alert.
 
+
 ### Project #15: Accessibility
 Learn how to make your apps available to everyone
 1- Techniques:
@@ -295,7 +297,8 @@ Fixing Word Scramble.
 Fixing Bookworm
 
 3- Challenges:
-Check out view in Cupcake Corner uses an image that doesn’t add anything to the UI (added the decorative: init to it); fix the steppers in BetterRest; full accesibility review of MoonShot (not today Satan).
+Check out view in Cupcake Corner uses an image that doesn’t add anything to the UI (added the decorative: init to it); fix the steppers in BetterRest; full accessibility review of MoonShot (not today Satan).
+
 
 ### Project #16: Hot Prospects
 Build an app for conferences with tabs, context menus, and more.
@@ -316,6 +319,7 @@ Created a simple fetchrequest with result and network error enum project that's 
 3- Challenges:
 Add an icon to the “Everyone” screen showing whether a prospect was contacted or not. Use JSON and the documents directory for saving and loading our user data. Use an action sheet to customize the way users are sorted in each screen – by name or by
 most recent.
+
 
 ### Project #17: Flashzilla
 Use gestures and haptics to build a learning app.
@@ -350,6 +354,7 @@ It's one of the largest projects, but it's very interesting. The possibility of 
 3- Challenges:
 Make something interesting for when the timer runs out (added an alert - not interesting, but I'm tired);
 
+
 ### Project #18: Layout and Geometry
 Explore the inner workings of SwiftUI's layout system.
 1- Techniques:
@@ -363,6 +368,7 @@ Just to create a few different views using the geometry reader and a few modifie
 
 3- Challenges:
 Change project 8 (Moonshot) so that when you scroll down in MissionView the mission badge image gets smaller;
+
 
 ### Project #19: SnowSeeker
 Build an app for ski resorts that works great on iPad.
@@ -531,15 +537,23 @@ draw a thin gray line around the buttons view (with code from project 2); If the
 Learn how to run complex tasks in the background with GCD.
 1- Techniques:
 [] - DispatcQueue
+[] - .async
+[] - All the theory explaining queues, threads, and which kind of instructions should run in which threads, backgrounds, etc.
+[] - .main, .userInitiated, .userInteractive, .utility, .background (eram as mesmas em SwiftUI? R: não, não tinha GCD nos tutoriais de SwiftUI.) A razão parece ter sentido com o Combine: as operações em background são quase sempre feitas com dados, que devem correr em threads de background. A UI é que deve ser sempre atualizada na main thread. Porém, com Combine, as UI se atualizam automaticamente, quando percebem alguma alteração nas fontes de dados publicadas).
+[] - Easy GCD using performSelector(inBackground:)
 
 2- Step-by-step:
+Implemented GCD in project 7, by adding a selector to fetch the JSON in the background, and whenever it updates, it comes back to the main thread and updates UI. It's a very simple project.
 
 3- Challenges:
-
+The challenges are to implement the same solution to other 3 projects: 1, 8, and 7 (to the filtering option).
+Number 1 was quite simple.
+NUmber 8, as well.
+Filtering option not implemented in #7.
 
 
 ### Milestone #4: JSON and GCD
-make a hangman game using UIKit
+Make a hangman game using UIKit
 1- Techniques:
 [] -
 
