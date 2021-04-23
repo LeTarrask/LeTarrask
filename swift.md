@@ -781,9 +781,10 @@ Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
 ### Project #24: Swift Strings
 Dive deep into how strings work in Swift, and learn how to add formatting on top.
 1- Techniques:
-[] -
+[] - NSAttributedString and it's properties.
 
 2- Step-by-step:
+This is not a project, but a playground where we do some experimentation with NSAttributedString methods, and a few String ones, such as isEmpty, and adding extensions to remove prefixes and suffixes.
 
 3- Challenges:
 
