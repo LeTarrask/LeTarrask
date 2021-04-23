@@ -831,6 +831,7 @@ Respond to device tilting by steering a ball around a vortex maze.
 
 ### Project #27: Core Graphics
 Draw 2D shapes using Apple's high-speed drawing framework.
+**can skip for now**
 1- Techniques:
 [] - Core Graphics
 
@@ -842,7 +843,7 @@ Draw 2D shapes using Apple's high-speed drawing framework.
 
 
 ### Milestone #10: Core Motion and Core Graphics
-create a meme generation app using UIImagePickerController, UIAlertController, and Core Graphics
+Create a meme generation app using UIImagePickerController, UIAlertController, and Core Graphics
 1- Techniques:
 [] -
 
@@ -855,12 +856,14 @@ create a meme generation app using UIImagePickerController, UIAlertController, a
 Save user data securely using the device keychain and Touch ID.
 1- Techniques:
 [] - iOS Keychain
+[] - Hide and show views in UIKit
+[] - Code for keyboard resign first responder
 
 2- Step-by-step:
+Added a textview, then a few methods to hide and show it, according to user authentication using LocalAuthentication.
 
 3- Challenges:
-
-
+Done button as a navigation bar item that causes the app to re-lock immediately rather than waiting for the user to quit; Create a password system for your app so that the Touch ID/Face ID fallback is more useful (can be something interesting to be reused); Go back to project 10 (Names to Faces) and add biometric authentication so the user’s pictures are shown only when they have unlocked the app (this too).
 
 
 ### Project #29: Exploding Monkeys
