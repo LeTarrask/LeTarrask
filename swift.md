@@ -900,11 +900,15 @@ Create a memory pairs game that has players find pairs of cards – it’s somet
 Get started with UIStackView and see just how easy iPad multitasking is.
 1- Techniques:
 [] - UIStackView
+[] - App Transport Security (Apple prevents loading sites that aren't https)
+[] - Handling iPad multitasking with other screens.
+[] - iPad size classes
 
 2- Step-by-step:
+Create an iPad project, set the view in storyboard, add some navbuttons, added webviews inside the UIStackView, delegate to control it, and then use iPad size classes to adjust the view sizes whenever it updates.
 
 3- Challenges:
-
+Test if user typed address has https as a prefix, if not, try to convert it to URL; add a descriptive label.
 
 
 ### Project #32: SwiftSearcher
@@ -933,6 +937,7 @@ Build a crowd-sourced song recognition app using Apple's free platform as a serv
 
 ### Project #34: Four in a Row
 Let iOS take over the AI in your games using GameplayKit AI.
+**Sprite Kit**
 1- Techniques:
 [] - GKGameModel
 
@@ -944,6 +949,7 @@ Let iOS take over the AI in your games using GameplayKit AI.
 
 ### Project #35: Random Numbers
 Let GameplayKit help you generate random numbers in ways you soon won't be able to live without.
+**Sprite Kit**
 1- Techniques:
 [] - GameplayKit
 
@@ -973,7 +979,6 @@ Are you psychic? Of course not. But what if we could use our coding skills to ma
 2- Step-by-step:
 
 3- Challenges:
-
 
 
 ### Project #38: GitHub Commits
