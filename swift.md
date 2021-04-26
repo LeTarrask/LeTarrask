@@ -915,16 +915,27 @@ Test if user typed address has https as a prefix, if not, try to convert it to U
 Add your app's content to iOS Spotlight and take advantage of Safari integration.
 1- Techniques:
 [] - UITableViewCells
+[] - NSAttributedString
+[] - SafariServices
+[] - SFSafariViewController (a safari view mode which we can't control via code)
+[] - tableView.isEditing and .allowsSelectionDuringEditing
+[] - tableView(_:commit:forRowAt:)
+[] - UITableViewCell.EditingStyle
+[] - CoreSpotlight
+[] - MobileCoreServices
+[] - CoreSearchableItem
 
 2- Step-by-step:
+Loaded an array with Hacking with Swift projects, show it in a tableview, customize the view, allow user to choose one, and open an url that has the project. Storing favorites in UserDefaults. Then we do a lot of tableView customization. Now we go to something completely different: using Core Spotlight, to show the apps features in iOS/MacOS Spotlight. CoreSearchableItem its an object that stores information about an item for Spotlight, such as titles, description images, picture info, etc.
+I did a quick hack to make the final step work, because AppDelegate is different from when tutorial was made, not sure if it's perfectly working and should be tested more.
 
 3- Challenges:
-
+Make it more reusable by using a viewmodel instead of an array of strings; format the stored data differently, change dynamic type size, to make the app more customizable. These challenges are interesting if we want to apply this technique into a project. Maybe for Dualogue.
 
 
 ### Project #33: What's that Whistle
 Build a crowd-sourced song recognition app using Apple's free platform as a service: CloudKit.
-**Sprite Kit**
+**Cloud Kit - requires working Apple Developer Account**
 1- Techniques:
 [] - AVAudioRecorder
 [] - CloudKit
@@ -975,10 +986,14 @@ Are you psychic? Of course not. But what if we could use our coding skills to ma
 1- Techniques:
 [] - Watch app
 [] - Storyboard
+[] - CAEmmiterLayer
+[] - IBDesignable, IBInspectable
 
 2- Step-by-step:
+We create a bunch of cards as subviews of a view, add a subclass of view to hold a GradientView, add audio capabilities, then start the fun stuff: adding 3D touch recognition, Apple Watch connectivity, create a watch app using storyboard, and present an instructions screen when we load the app.
 
 3- Challenges:
+The challenges here are to run the app and make the gimmicks for it to be fun. No Apple Watch to test, though, and I'd guess making the app in SwiftUI would be a little easier.
 
 
 ### Project #38: GitHub Commits
