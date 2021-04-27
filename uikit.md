@@ -5,6 +5,7 @@ Completed all projects in 27/04/2021, and added to [github repo](https://github.
 
 ## Milestone #1: Learning the Swift Language
 Fizz Buzz test
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/1_FizzBuzz/FizzBuzz.playground)
 
 ### ### 1- Techniques:
 
@@ -21,6 +22,7 @@ Basically, fizzbuzz exercise. I remember from Pro Swift that it can be done with
 
 ## Project #1: Storm Viewer
 Get started coding in Swift by making an image viewer app and learning key concepts.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/1_Storm%20Viewer/Storm%20Viewer)
 
 ### 1- Techniques:
 
@@ -40,6 +42,7 @@ Use Interface Builder to select the text label inside your table view cell and a
 
 ## Project #2: Guess the flag
 Make a game using UIKit, and learn about integers, buttons, colors and actions.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/2_Guess%20the%20flag/Guess%20the%20Flag)
 
 ### 1- Techniques:
 
@@ -59,6 +62,7 @@ something like “Wrong! That’s the flag of France,” for example (added a me
 
 ## Project #3: Social Media
 Let users share to Facebook and Twitter by modifying project 1.
+Code in project #1
 
 ### 1- Techniques:
 
@@ -75,6 +79,7 @@ Try adding the image name to the list of items that are shared. The activityItem
 
 ## Milestone #2: Welcome to UIKit
 create an app that lists various world flags in a table view
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/2_FlagDetail/FlagDetail)
 
 ### 2- Step-by-step:
 
@@ -85,6 +90,7 @@ Repeating a lot of techniques from the previous 3 projects, we load flag images 
 
 ## Project #4: Easy Browser
 Embed Web Kit and learn about delegation, KVO, classes and UIToolbar.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/4_Easy%20Browser/Easy%20Browser)
 
 ### 1- Techniques:
 
@@ -104,6 +110,7 @@ If users try to visit a URL that isn’t allowed, show an alert saying it’s bl
 
 ## Project #5: Word Scramble
 Create an anagram game while learning about closures and booleans.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/5_Word%20Scramble/Word%20Scramble)
 
 ### 1- Techniques:
 
@@ -122,6 +129,7 @@ Disallow answers that are shorter than three letters or are just our start word 
 
 ## Project #6: Auto Layout
 Get to grips with Auto Layout using practical examples and code.
+[repo]()
 
 **can skip for now**
 ### 1- Techniques:
@@ -137,6 +145,7 @@ Get to grips with Auto Layout using practical examples and code.
 
 ## Milestone #3: WebKit and Closures
 create an app that lets people create a shopping list by adding items to a table view
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/3_Shopping%20List)
 
 ### 1- Techniques:
 
@@ -158,6 +167,7 @@ Create a tableview, insert elements into it, update it's values when they change
 
 ## Project #7: Whitehouse Petitions
 Make an app to parse Whitehouse petitions using JSON and a tab bar.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/7_Whitehouse%20Petitions/Whitehouse%20petitions)
 
 ### 1- Techniques:
 
@@ -180,6 +190,7 @@ The challenges are exercises: adding another alert that should come from an UIBa
 
 ## Project #8: 7 Swifty Words
 Build a word-guessing game and master strings once and for all.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/8_7%20Swifty%20Words/7%20Swifty%20Words)
 
 ### 1- Techniques:
 
@@ -202,6 +213,7 @@ draw a thin gray line around the buttons view (with code from project 2); If the
 
 ## Project #9: Grand Central Dispatch
 Learn how to run complex tasks in the background with GCD.
+Project done in other projects, so it doesn't have any code.
 
 ### 1- Techniques:
 
@@ -227,6 +239,7 @@ Filtering option not implemented in #7.
 
 ## Milestone #4: JSON and GCD
 Make a hangman game using UIKit
+[repo]()
 
 ### 1- Techniques:
 -
@@ -240,6 +253,7 @@ Make a hangman game using UIKit
 
 ## Project #10: Names to Faces
 Get started with UICollectionView and the photo library.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/10_Names%20to%20Faces/Names%20to%20faces)
 
 ### 1- Techniques:
 
@@ -259,6 +273,7 @@ O primeiro challenge é só colocar um Alert Controller; o segundo é usar a câ
 
 ## Project #12: UserDefaults
 Learn how to save user settings and data for later use.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/12_UserDefaults)
 
 ### 1- Techniques:
 
@@ -280,6 +295,7 @@ The challenges are to apply this knowledge int old projects. Project 1 so that i
 ## Project #13: Instafilter
 **There's a SwiftUI version**
 Make a photo manipulation program using Core Image filters and a UISlider.
+[repo]()
 
 ### 1- Techniques:
 
@@ -295,6 +311,7 @@ Make a photo manipulation program using Core Image filters and a UISlider.
 ## Project #15: Animation
 **There's a SwiftUI version**
 Bring your interfaces to life with animation, and meet switch/case at the same time.
+[repo]()
 
 ### 1- Techniques:
 -
@@ -308,6 +325,7 @@ Bring your interfaces to life with animation, and meet switch/case at the same t
 
 ## Milestone #6: Core Image and Core Animation
 make an app that contains facts about countries: show a list of country names in a table view, then when one is tapped bring in a new screen that contains its capital city, size, population, currency, and any other facts that interest you. The type of facts you include is down to you – Wikipedia has a huge selection to choose from.
+[repo]()
 
 ### 1- Techniques:
 -
@@ -322,6 +340,7 @@ make an app that contains facts about countries: show a list of country names in
 ## Project #16: Capital Cities
 Teach users about geography while you learn about MKMapView and annotations.
 **There's a SwiftUI version**
+[repo]()
 
 ### 1- Techniques:
 
@@ -336,6 +355,7 @@ Teach users about geography while you learn about MKMapView and annotations.
 
 ## Project #18: Debugging
 Everyone hits problems sooner or later, so learning to find and fix them is an important skill.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/18_Debugging/Debugging)
 
 ### 1- Techniques:
 
@@ -355,7 +375,7 @@ The challenges are to use the techniques: add an exception breakpoint into proje
 ***
 
 ## Milestone #7: Extensions and Debugging
-make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.
+make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.[repo]()
 
 ### 1- Techniques:
 
@@ -370,6 +390,7 @@ make a shooting gallery game using SpriteKit: create three rows on the screen, t
 
 ## Project #19: JavaScript Injection
 Extend Safari with a cool feature for JavaScript developers.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/19_JavaScript%20Injection/Javascript%20Injection)
 
 ### 1- Techniques:
 
@@ -387,6 +408,7 @@ Apparently I did something very wrong in the tutorial, and created an extension 
 
 ## Project #21: Local Notifications
 Send reminders, prompts and alerts even when your app isn't running.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/21_Local%20Notifications/Local%20Notifications)
 
 ### 1- Techniques:
 
@@ -406,7 +428,7 @@ Challenges are to apply this into old projects.
 ***
 
 ## Milestone #8: Maps and Notifications
-recreate the iOS Notes app
+recreate the iOS Notes app[repo]()
 
 ### 1- Techniques:
 -
@@ -420,6 +442,7 @@ recreate the iOS Notes app
 
 ## Project #22: Detect-a-Beacon
 Learn to find and range iBeacons using our first project for a physical device.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/22_Detect-a-Beacon)
 
 ### 1- Techniques:
 
@@ -438,6 +461,7 @@ Challenges are related to animating and creating alerts to this app when the res
 
 ## Project #24: Swift Strings
 Dive deep into how strings work in Swift, and learn how to add formatting on top.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/24_Swift%20Strings/Swift_Strings.playground)
 
 ### 1- Techniques:
 
@@ -454,7 +478,7 @@ Create a String extension that adds a withPrefix() method. If the string already
 ***
 
 ## Milestone #9: Beacons and extensions
-implement three Swift language extensions using what you learned in project 24
+implement three Swift language extensions using what you learned in project 24[repo]()
 
 ### 1- Techniques:
 
@@ -469,6 +493,7 @@ implement three Swift language extensions using what you learned in project 24
 
 ## Project #25: Selfie Share
 Make a multipeer photo sharing app in just 150 lines of code.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/25_Selfie%20Share/Selfie%20Share)
 
 ### 1- Techniques:
 
@@ -493,6 +518,7 @@ Show an alert when a user has disconnected from our multipeer network; Try sendi
 ## Project #27: Core Graphics
 Draw 2D shapes using Apple's high-speed drawing framework.
 **can skip for now**
+[repo]()
 
 ### 1- Techniques:
 
@@ -507,6 +533,7 @@ Draw 2D shapes using Apple's high-speed drawing framework.
 
 ## Milestone #10: Core Motion and Core Graphics
 Create a meme generation app using UIImagePickerController, UIAlertController, and Core Graphics
+[repo]()
 
 ### 1- Techniques:
 
@@ -521,6 +548,7 @@ Create a meme generation app using UIImagePickerController, UIAlertController, a
 
 ## Project #28: Secret Swift
 Save user data securely using the device keychain and Touch ID.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/28_Secret%20Swift/Secret%20Swift)
 
 ### 1- Techniques:
 
@@ -541,6 +569,7 @@ Done button as a navigation bar item that causes the app to re-lock immediately 
 
 ## Project #30: Instruments
 Become a bug detective and track down lost memory, slow drawing and more.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/30_Instruments)
 
 ### 1- Techniques:
 
@@ -560,6 +589,7 @@ Apply these instruments readings in projects 29, 30, and other projects.
 
 ## Milestone #11: Secrets and Explosions
 Create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs
+[repo]()
 
 ### 1- Techniques:
 
@@ -574,6 +604,7 @@ Create a memory pairs game that has players find pairs of cards – it’s somet
 
 ## Project #31: MultiBrowser
 Get started with UIStackView and see just how easy iPad multitasking is.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/31_MultiBrowser/MultiBrowser)
 
 ### 1- Techniques:
 
@@ -595,6 +626,7 @@ Test if user typed address has https as a prefix, if not, try to convert it to U
 
 ## Project #32: SwiftSearcher
 Add your app's content to iOS Spotlight and take advantage of Safari integration.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/32_SwiftSearcher/SwiftSearcher)
 
 ### 1- Techniques:
 
@@ -624,6 +656,7 @@ Make it more reusable by using a viewmodel instead of an array of strings; forma
 ## Project #33: What's that Whistle
 Build a crowd-sourced song recognition app using Apple's free platform as a service: CloudKit.
 **Cloud Kit - requires working Apple Developer Account**
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/33_What's%20that%20Whistle/What's%20that%20Whistle)
 
 ### 1- Techniques:
 
@@ -639,6 +672,7 @@ Build a crowd-sourced song recognition app using Apple's free platform as a serv
 
 ## Project #37: Psychic Tester
 Are you psychic? Of course not. But what if we could use our coding skills to make a game to fool your friends into thinking otherwise?
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/37_Psychic%20Tester/Psychic%20Tester)
 
 ### 1- Techniques:
 
@@ -660,6 +694,7 @@ The challenges here are to run the app and make the gimmicks for it to be fun. N
 
 ## Project #38: GitHub Commits
 Get started with Core Data by building an app to fetch and store GitHub commits for Swift.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/38_GitHub%20communications/Github%20Commits)
 
 ### 1- Techniques:
 
@@ -678,6 +713,7 @@ Challenges are to go deep into Core Data as well. Actually, he suggests to study
 
 ## Project #39: Unit testing with XCTest
 Learn how to write unit tests and user interface tests using Xcode's built-in testing framework.
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/39_Unit%20testing%20with%20XCTest/Unit%20Testing)
 
 ### 1- Techniques:
 
