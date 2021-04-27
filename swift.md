@@ -6,6 +6,13 @@ All the HackingWithSwift projects will be stored in one single repo.
 
 My projects have their respective repos.
 
+## My Projects
+Those were started and ended in different timeframes.
+
+[Here's the log.](/myprojects.md)
+
+***
+
 ## Hacking With SwiftUI Projects
 Completed all projects in 15/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
@@ -26,8 +33,3 @@ Completed all projects in **/04/2021, and added to [github repo](https://github.
 [Here's the log.](/spritekit.md)
 
 ***
-
-## My Projects
-Those were started and ended in different timeframes.
-
-[Here's the log.](/myprojects.md)
