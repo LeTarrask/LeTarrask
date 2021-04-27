@@ -1,16 +1,27 @@
 # My Projects
 Those were started and ended in different timeframes.
 
+### Project #18: Whatsapp autospeed
+[**Whatsapp autospeed**]()
+
+[] - An app that allows to store answers and quickly add them to a whatsapp WebView
+
+***
+
 ### Project #17: Marc2.0el
 [**Marc2.0el**]()
 
 [] - Joke navigation view
+
+***
 
 ### Project #16: Jiu-jitsu
 [**Jiu-jitsu**]()
 
 [] - Screen recording
 [] - SwiftUI
+
+***
 
 ### Project #15: Pomodoro
 [**Pomodoro**](https://github.com/LeTarrask/Pomodoro)
@@ -22,12 +33,16 @@ Those were started and ended in different timeframes.
 [] - SwiftLint
 [] - SwiftUI
 
+***
+
 ### Project #14: 5ed SRD Reader for Mac
 **Repo not started yet**
 
 [] - Mac OS
 [] - Web requests to API
 [] - Decoding JSON
+
+***
 
 ### Project #13: AE Euro Counter
 [**Euro Counter**](https://github.com/LeTarrask/Euro-Counter)
@@ -38,6 +53,8 @@ Those were started and ended in different timeframes.
 [] - iOS
 [] - Live camera feed (UIKit framework used in SwiftUI)
 [] -
+
+***
 
 ### Project #12: Mileage Tracker
 [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker)
@@ -70,6 +87,8 @@ Those were started and ended in different timeframes.
 [] - Extension double - clean and rounded for UI reasons
 [] -
 
+***
+
 ### Project #11: Dobble
 [**Dobble**](https://github.com/LeTarrask/Dobble)
 
@@ -84,6 +103,8 @@ Those were started and ended in different timeframes.
 [] - iOS built
 [] - SwiftUI
 
+***
+
 ### Project #10: Tobem Ipsum
 [**Tobem Ipsum**](https://github.com/LeTarrask/Tobem-Ipsum)
 
@@ -96,6 +117,8 @@ Those were started and ended in different timeframes.
 [] - EventMonitor to figure out clicks outside the app
 [] - SwiftLint
 [] - SwiftUI
+
+***
 
 ### Project #9: 2048
 [**2048**](https://github.com/LeTarrask/2048)
@@ -118,6 +141,8 @@ Those were started and ended in different timeframes.
 [] - iOS built
 [] - SwifUI
 
+***
+
 ### Project #8: Paradoxes
 [**Paradoxes**](https://github.com/LeTarrask/Paradoxes)
 
@@ -125,6 +150,8 @@ Those were started and ended in different timeframes.
 [] - radius / sin, cos calculation to position balls in screen
 [] - ternary conditionals
 [] - SwiftUI
+
+***
 
 ### Project #7: Mara:
 **Private Repo**
@@ -136,12 +163,16 @@ Those were started and ended in different timeframes.
 [] - File deleting
 [] - SwiftUI
 
+***
+
 ### Project #6: Creative Gym
 [**Creative Gym**](https://github.com/LeTarrask/Creative-Gym)
 
 [] - Complex data models
 [] - iOS
 [] - SwiftUI
+
+***
 
 ### Project #5: Dualogue
 [**Dualogue**](https://github.com/LeTarrask/Dualogue)
@@ -157,6 +188,8 @@ Those were started and ended in different timeframes.
 [] - iOS
 [] - SwiftUI
 
+***
+
 ### Project #4: Dreadline
 [**Dreadline**](https://github.com/LeTarrask/Dreadline)
 
@@ -166,17 +199,23 @@ Those were started and ended in different timeframes.
 [] - Uses storyboard
 [] - Email sending
 
+***
+
 ### Project #3: Iniciativer
 [**Iniciativer**](https://github.com/LeTarrask/Iniciativer)
 
 [] - iOS
 [] - SwiftUI
 
+***
+
 ### Project #2: SwiftUI Placeholder
 [**SwiftUI Placeholder**](https://github.com/LeTarrask/SwiftUI-Placeholder)
 
 [] - SwiftUI
 [] - Geometry Reader
+
+***
 
 ### Project #1: 1 milhão de folhas
 [**1 milhão de folhas**](https://github.com/LeTarrask/1-milh-o-de-folhas)
