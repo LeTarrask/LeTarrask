@@ -71,7 +71,6 @@ We create a WebView (I'm pretty sure there's a simpler SwiftUI way to code it), 
 If users try to visit a URL that isn’t allowed, show an alert saying it’s blocked (using UIAlertController); making two new toolbar items with the titles Back and Forward (did it and created a couple of selectors and @objc functions); try changing the initial view controller to a table view like in project 1, where users can choose their website from a list rather than just having the first in the array loaded up front (it wasn't particularly hard, but a lot of steps that I had to get from other code). These projects all sound like more training and remembering, which is good for me now, but drag a little bit.
 
 ### Project #5: Word Scramble
-**There's a SwiftUI version - can skip**
 Create an anagram game while learning about closures and booleans.
 1- Techniques:
 [] - txt file reading
