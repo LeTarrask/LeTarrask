@@ -1,9 +1,13 @@
 # Hacking With SwiftUI Projects
 Completed all projects in 15/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
+***
+
 ### Project #1: WeSplit
 A check-splitting app
+
 1- Techniques:
+
 - Basic project structure
 - Form
 - @State
@@ -14,9 +18,11 @@ A check-splitting app
 - Computed properties
 
 2- Step-by-step:
+
 Basically, create a single view that computes some properties which are updated onscreen, using @State properties.
 
 3- Challenges:
+
 Add to the form, create another computed property, change the picker.
 
 ### Project #2: Guess the Flag
