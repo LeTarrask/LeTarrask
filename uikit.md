@@ -7,11 +7,11 @@ Completed all projects in 27/04/2021, and added to [github repo](https://github.
 Fizz Buzz test
 [repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/1_FizzBuzz/FizzBuzz.playground)
 
-### ### 1- Techniques:
+### 1- Techniques:
 
 - A quick explanation of swift language.
 
-### ### 2- Step-by-step:
+### 2- Step-by-step:
 
 ### 3- Challenges:
 
