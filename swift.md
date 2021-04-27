@@ -1006,16 +1006,20 @@ Get started with Core Data by building an app to fetch and store GitHub commits 
 We load a JSON and use SwiftyJSON framework to decode it (now I'd rather use Codable, but anyways), and then build a complex Core Data project. It's tricky.
 
 3- Challenges:
-Challenges are to go deep into Core Data as well.
+Challenges are to go deep into Core Data as well. Actually, he suggests to study more. Will do that with Donny Wals' book, and probably finish Dualogue.
 
 
 ### Project #39: Unit testing with XCTest
 Learn how to write unit tests and user interface tests using Xcode's built-in testing framework.
-[] - XCTest
+
 1- Techniques:
-[] -
+[] - XCTest
+[] - filter, sort, map functions used for the first time, I'd guess
+[] - measure {} in testing is very interesting.
+[] - encapsulation of the filtering function is pretty interesting
 
 2- Step-by-step:
+We create a simple app that loads a list of words, and test its speed, and a few functions, to see if it works. The cool part is the functional programming that is presented for the first time here.
 
 3- Challenges:
 
