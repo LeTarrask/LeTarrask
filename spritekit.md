@@ -69,6 +69,21 @@ Dodge space debris while you learn about per-pixel collision detection.
 ## 3- Challenges:
 
 
+***
+
+## Milestone #7: Extensions and Debugging
+make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.
+**Sprite Kit**
+[repo]()
+
+### 1- Techniques:
+
+-
+
+### 2- Step-by-step:
+
+### 3- Challenges:
+
 
 ***
 

@@ -374,19 +374,7 @@ The challenges are to use the techniques: add an exception breakpoint into proje
 
 ***
 
-## Milestone #7: Extensions and Debugging
-make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.[repo]()
 
-### 1- Techniques:
-
--
-
-### 2- Step-by-step:
-
-### 3- Challenges:
-
-
-***
 
 ## Project #19: JavaScript Injection
 Extend Safari with a cool feature for JavaScript developers.
