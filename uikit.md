@@ -539,13 +539,10 @@ Create a meme generation app using UIImagePickerController, UIAlertController, a
 [repo]()
 
 ### 1- Techniques:
-
--
-
-### 2- Step-by-step:
-
-### 3- Challenges:
-
+- ImagePicker and presenting UIImagePickerController in SwiftUI
+- Geometry Reader and stacks
+- UIActivityViewController
+- view extension that generates snapshots of views
 
 ***
 
