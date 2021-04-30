@@ -23,22 +23,6 @@ Dive into SpriteKit to try your hand at fast 2D games.
 
 ***
 
-### Milestone #5: Collection Views and SpriteKit
-let users take photos of things that interest them, add captions to them, then show those photos in a table view.
-**Sprite Kit**
-(repo)[]
-
-## 1-  Techniques:
--
-
-## 2- Step-by-step:
-
-## 3- Challenges:
-
-
-
-***
-
 ### Project #14: Whack-a-Penguin
 Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
 **Sprite Kit**
