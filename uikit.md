@@ -341,16 +341,16 @@ Bring your interfaces to life with animation, and meet switch/case at the same t
 ***
 
 ## Milestone #6: Core Image and Core Animation
-make an app that contains facts about countries: show a list of country names in a table view, then when one is tapped bring in a new screen that contains its capital city, size, population, currency, and any other facts that interest you. The type of facts you include is down to you – Wikipedia has a huge selection to choose from.
+Make an app that contains facts about countries: show a list of country names in a table view, then when one is tapped bring in a new screen that contains its capital city, size, population, currency, and any other facts that interest you. The type of facts you include is down to you – Wikipedia has a huge selection to choose from.
 [repo]()
 
 ### 1- Techniques:
--
+- JSON reading
+- Codable
+- Extension to Bundle that gets all of a Codable object from an specific file,
 
 ### 2- Step-by-step:
-
-### 3- Challenges:
-
+Decided not to do the countries project, but to kick-off the D&D SRD project. Started with a json file of all the monsters, and will do the challenge with this data. Did a trick to make the monster model I get from the JSON identifiable, by creating an extension property that's computed from monster name. A lot of monster characteristics have to be optional so Codable can decode, but of course I didn't create the original data, and that means the monsters can NOT have some of those. Used CodingKeys to completely decode the JSON correctly. It works. Now it's just matter of fixing UI.
 
 ***
 
