@@ -392,7 +392,6 @@ The challenges are to use the techniques: add an exception breakpoint into proje
 ***
 
 
-
 ## Project #19: JavaScript Injection
 Extend Safari with a cool feature for JavaScript developers.
 [repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Classic_Projects/19_JavaScript%20Injection/Javascript%20Injection)
@@ -436,12 +435,15 @@ Challenges are to apply this into old projects.
 recreate the iOS Notes app[repo]()
 
 ### 1- Techniques:
--
+- MVVM
+- Storing data in JSON
+- Navigation View
+- Doing it in SwiftUI
+- ActivityViewController presentation to share
 
 ### 2- Step-by-step:
-
-### 3- Challenges:
-
+Followed the steps with no major problems, creating the view and the subview, the save and delete button to manage the content, and storing it as Codable in a JSON file in memory.
+And uses a ActivityViewController wrapper to the UIKit API.
 
 ***
 
