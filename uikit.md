@@ -296,7 +296,7 @@ The challenges are to apply this knowledge int old projects. Project 1 so that i
 
 ### Milestone #5: Collection Views and SpriteKit
 let users take photos of things that interest them, add captions to them, then show those photos in a table view.
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/5_Photo%20Info/Camera%20Storing]
 
 ## 1-  Techniques:
 - LazyVGrid
