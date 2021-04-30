@@ -242,9 +242,11 @@ Make a hangman game using UIKit
 [repo]()
 
 ### 1- Techniques:
--
+- JSONDecoder
+- DispatchQueue
 
 ### 2- Step-by-step:
+Did it in SwiftUI to simplify. Used the dictionary of words from project 7, and DispatchQueue'd loading it. Found a very weird bug in new XCode.
 
 ### 3- Challenges:
 
@@ -287,8 +289,23 @@ We save the data from project 10 using NSCoding, and store it in UserDefaults. A
 
 ### 3- Challenges:
 
-The challenges are to apply this knowledge int old projects. Project 1 so that it remembers how many times each storm image was shown; Project 2 so that it saves the player’s highest score (could do it, but would deprecate the game over situation); Project 5 so that it saves the current word and all the player’s entries to UserDefalts.
+The challenges are to apply this knowledge int old projects. Project 1 so that it remembers how many times each storm image was shown; Project 2 so that it saves the player’s highest score (could do it, but would deprecate the game over situation); Project 5 so that it saves the current word and all the player’s entries to UserDefaults.
 
+
+***
+
+### Milestone #5: Collection Views and SpriteKit
+let users take photos of things that interest them, add captions to them, then show those photos in a table view.
+(repo)[]
+
+## 1-  Techniques:
+- LazyVGrid
+- Showing a UIViewController in SwiftUI
+- Storing images and text in a JSON file using Codable to code and decode.
+
+## 2- Step-by-step:
+I did it with SwiftUI, so instead of rebuilding a UITableView, I did a LazyVGrid that holds the images.
+Used Codable to store data as JSON into the bundle. Having some trouble storing the images into the bundle and recovering it, debugged it. Had to do some array magic to allow user to update the description for the model, and all is working now.
 
 ***
 
