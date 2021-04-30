@@ -488,13 +488,9 @@ Create a String extension that adds a withPrefix() method. If the string already
 implement three Swift language extensions using what you learned in project 24[repo]()
 
 ### 1- Techniques:
-
--
-
-### 2- Step-by-step:
-
-### 3- Challenges:
-
+- First was UIKit View extension. Tried to mimick it for SwiftUI as well.
+- Second was a quick exercise that accepted a closure, had to see the answer to write it correctly.
+- The third one was simple too. Writing swift files without autocomplete is kinda hard, but it's working.
 
 ***
 
