@@ -342,7 +342,7 @@ Bring your interfaces to life with animation, and meet switch/case at the same t
 
 ## Milestone #6: Core Image and Core Animation
 Make an app that contains facts about countries: show a list of country names in a table view, then when one is tapped bring in a new screen that contains its capital city, size, population, currency, and any other facts that interest you. The type of facts you include is down to you – Wikipedia has a huge selection to choose from.
-[repo]()
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/6_EldrichtApp/EldrichtApp)
 
 ### 1- Techniques:
 - JSON reading
@@ -432,7 +432,7 @@ Challenges are to apply this into old projects.
 ***
 
 ## Milestone #8: Maps and Notifications
-recreate the iOS Notes app[repo]()
+recreate the iOS Notes app[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/8_Notes/Notes)
 
 ### 1- Techniques:
 - MVVM
@@ -485,7 +485,7 @@ Create a String extension that adds a withPrefix() method. If the string already
 ***
 
 ## Milestone #9: Beacons and extensions
-implement three Swift language extensions using what you learned in project 24[repo]()
+implement three Swift language extensions using what you learned in project 24[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/9_Extensions)
 
 ### 1- Techniques:
 - First was UIKit View extension. Tried to mimick it for SwiftUI as well.
@@ -536,7 +536,7 @@ Draw 2D shapes using Apple's high-speed drawing framework.
 
 ## Milestone #10: Core Motion and Core Graphics
 Create a meme generation app using UIImagePickerController, UIAlertController, and Core Graphics
-[repo]()
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Milestone_Projects/10_MemeGenerator/Meme%20Generator)
 
 ### 1- Techniques:
 - ImagePicker and presenting UIImagePickerController in SwiftUI
@@ -591,14 +591,7 @@ Apply these instruments readings in projects 29, 30, and other projects.
 Create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs
 [repo]()
 
-### 1- Techniques:
-
--
-
-### 2- Step-by-step:
-
-### 3- Challenges:
-
+I already did a concentration game when I did Stanford's Apple Development Course. Have to find the repo.
 
 ***
 
