@@ -33,3 +33,8 @@ Completed all projects in **/05/2021, and added to [github repo](https://github.
 [Here's the log.](/spritekit.md)
 
 ***
+
+## Other projects from tutorials
+This file will keep other projects.
+
+[Here's the log](/otherTutorials.md)
