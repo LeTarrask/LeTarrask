@@ -28,7 +28,7 @@ Completed all projects in 27/04/2021, and added to [github repo](https://github.
 ***
 
 ## Hacking With Swift SpriteKit Projects
-Completed all projects in **/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
+Completed all projects in **/05/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
 [Here's the log.](/spritekit.md)
 

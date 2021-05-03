@@ -1,10 +1,6 @@
 # Hacking With Swift SpriteKit Projects
 Completed all projects in **/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
-
-***
-
-
 ***
 
 ### Project #11: Pachinko
