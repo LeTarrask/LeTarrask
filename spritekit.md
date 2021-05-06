@@ -53,7 +53,7 @@ First challenge is to add customized audio, didn't do because I don't want to re
 ### Project #17: Space Race
 Dodge space debris while you learn about per-pixel collision detection.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/17_Space%20Race/Space%20Race]
 
 ## 1-  Techniques:
 - SpriteKit
