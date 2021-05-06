@@ -57,16 +57,20 @@ Dodge space debris while you learn about per-pixel collision detection.
 
 ## 1-  Techniques:
 - SpriteKit
+- per-pixel collision
+- Timer
+- Contact with didBegin
+- physicsBody properties
 
 ## 2- Step-by-step:
+It's a super quick project, with less than 100 lines, to teach a few SpriteKit concepts.
 
 ## 3- Challenges:
-
-
+First challenge I think I completed, but can't test in simulator; Second was to add an increaser every 20 debris created, did it using the score variable; Third challenge is just to invalidate the timer when player dies.
 ***
 
 ## Milestone #7: Extensions and Debugging
-make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.
+Make a shooting gallery game using SpriteKit: create three rows on the screen, then have targets slide across from one side to the other. If the user taps a target, make it fade out and award them points.
 **Sprite Kit**
 [repo]()
 
