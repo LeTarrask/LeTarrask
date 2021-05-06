@@ -148,7 +148,7 @@ I'm skipping these now.
 ### Project #29: Exploding Monkeys
 Remake a classic DOS game and learn about destructible terrain and scene transitions.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/29_Exploding%20Monkeys/Exploding%20Monkeys]
 
 ## 1-  Techniques:
 - SpriteKit
