@@ -10,12 +10,22 @@ Dive into SpriteKit to try your hand at fast 2D games.
 ## 1-  Techniques:
 **Sprite Kit**
 - SpriteKit
+- Reseting the project
+- didMove (equivalent of ViewDidLoad pra GameKit)
+- addChild (para adicionar objetos à cena)
+- physicsBody
+- physicsWorld.contactDelegate
+- SKLabelNode (tipo um label)
+- touchesBegan (pra interpretar os toques na tela)
+- physicsBody?.isDinamic (to make the physicsBody respond to contacts and touches and etc)
+- SKEmitterNode (to use particles)
+- Particles editor
 
 ## 2- Step-by-step:
+Created a Pachinko app. It creates a ball that falls into different holes, and if they're right, it adds points. The game is quite boring, but shows how the game features work.
 
 ## 3- Challenges:
-
-
+First was to choose different colors randomly when the ball is created. Just created an array that holds all the filenames and picks a randomElement(); Second was to add an if to change ball drop location to be always over 640 points; Third was more complex: contact has to destroy the box barriers, had to add a name to them and then, when they're contacted, they're destroyed.
 
 ***
 
