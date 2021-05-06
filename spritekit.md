@@ -36,12 +36,16 @@ Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
 
 ## 1-  Techniques:
 - SpriteKit
-- DispatcQueue
+- DispatchQueue
+- SKCropNode
+- SKAction
+- SKNode subclasses
 
 ## 2- Step-by-step:
+Created a simple whack game that detects touches and interprets it according to whatever reaction we wanted. It also plays sounds and counts. It uses a SKNode subclass that holds different images, and has its own reactions and properties.
 
 ## 3- Challenges:
-
+First challenge is to add customized audio, didn't do because I don't want to record my voice; Second was to add a SKLabelNode with the final score when the game ends; Third, to add a smoke like effect when penguins are hit, I've reused the fire effect from previous project instead.
 
 
 ***
