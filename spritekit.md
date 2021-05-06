@@ -5,7 +5,7 @@ Completed all projects in **/04/2021, and added to [github repo](https://github.
 
 ### Project #11: Pachinko
 Dive into SpriteKit to try your hand at fast 2D games.
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/11_Pachinko/pachinko]
 
 ## 1-  Techniques:
 **Sprite Kit**
