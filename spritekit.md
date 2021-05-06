@@ -133,12 +133,15 @@ Respond to device tilting by steering a ball around a vortex maze.
 
 ## 1-  Techniques:
 - SpriteKit
+- CMMotionManager()
+- startAccelerometerUpdates()
 
 ## 2- Step-by-step:
+We load a level and use the MotionManager to change the player position.
 
 ## 3- Challenges:
-
-
+First, refactor the code to make it more readable. Second, update the game to have new levels. Third, create a new kind of block, also improving the game.
+I'm skipping these now.
 
 ***
 
