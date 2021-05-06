@@ -129,7 +129,7 @@ Challenges are repeating techniques from other projects, to get them more into m
 ### Project #26: Marble Maze
 Respond to device tilting by steering a ball around a vortex maze.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/26_Marble%20Maze/Marble%20Maze]
 
 ## 1-  Techniques:
 - SpriteKit
