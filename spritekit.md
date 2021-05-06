@@ -67,6 +67,7 @@ It's a super quick project, with less than 100 lines, to teach a few SpriteKit c
 
 ## 3- Challenges:
 First challenge I think I completed, but can't test in simulator; Second was to add an increaser every 20 debris created, did it using the score variable; Third challenge is just to invalidate the timer when player dies.
+
 ***
 
 ## Milestone #7: Extensions and Debugging
@@ -92,12 +93,15 @@ Learn about timers and color blends while making things go bang!
 
 ## 1-  Techniques:
 - SpriteKit
+- follow() - this SKAction is very interesting for the SuperSprint project, as its input is a path that the object must follow, orienting it's facing direction.
+- motionBegan() to detect movement
+- for case let
 
 ## 2- Step-by-step:
+Game tutorials are simpler than the other ones. We created the Timer that automatically creates groups of 5 fireworks, and then add a override method to main view controller that explode the fireworks.
 
 ## 3- Challenges:
-
-
+First, add a score label. Second, end the game after a few launches, just adding a variable to count and invalidate Timer. Third, use SKAction.wait(forDuration: 1) to delay and then remove the emitter particles from Scene.
 
 ***
 
