@@ -108,7 +108,7 @@ First, add a score label. Second, end the game after a few launches, just adding
 ### Project #23: Swifty Ninja
 Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/23_Swifty%20Ninja/Swifty%20Ninja]
 
 ## 1-  Techniques:
 - SpriteKit
@@ -122,8 +122,7 @@ Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
 Code is superlong, and interesting. It's basically adding all game elements, like sound, delays, sequences and all. In terms of Swift, it's not super challenging, though. It's more of a thing of several different parts that need to be thought through.
 
 ## 3- Challenges:
-
-
+Challenges are repeating techniques from other projects, to get them more into memory. First, remove magic numbers and adding useful names to it.
 
 ***
 
