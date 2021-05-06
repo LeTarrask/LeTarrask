@@ -152,12 +152,13 @@ Remake a classic DOS game and learn about destructible terrain and scene transit
 
 ## 1-  Techniques:
 - SpriteKit
+- ViewController & Game Scene relationship
 
 ## 2- Step-by-step:
+We build another game, and this time, it's about the relationship between game Scene and the ViewController. We build a simple screen over the game Scene, and use its inputs to change values in the game. These inputs are sliders, so we don't have to build them with GameKit.
 
 ## 3- Challenges:
-
-
+Skipped. It's all about update the game.
 
 ***
 
