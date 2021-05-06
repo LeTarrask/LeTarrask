@@ -112,8 +112,14 @@ Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
 
 ## 1-  Techniques:
 - SpriteKit
+- CaseIterable
+- AVAudioPlayer
+- Timer
+- DispatchQueue
+- removeFirst()
 
 ## 2- Step-by-step:
+Code is superlong, and interesting. It's basically adding all game elements, like sound, delays, sequences and all. In terms of Swift, it's not super challenging, though. It's more of a thing of several different parts that need to be thought through.
 
 ## 3- Challenges:
 
