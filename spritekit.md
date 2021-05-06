@@ -32,7 +32,7 @@ First was to choose different colors randomly when the ball is created. Just cre
 ### Project #14: Whack-a-Penguin
 Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/14_Whack-a-Penguin/Whack%20a%20Penguin]
 
 ## 1-  Techniques:
 - SpriteKit
