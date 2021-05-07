@@ -198,11 +198,13 @@ It has no challenges.
 ### Project #36: Crashy Plane
 Ever wanted to make a Flappy Bird clone? Now you can do it in under an hour thanks to SpriteKit.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/36_Crashy%20Plane/Crashy%20Plane]
 
 ## 1-  Techniques:
 - SpriteKit
 
 ## 2- Step-by-step:
+We follow to another more complex game, that has a lot of contacts, music, states, enums, etc.
 
 ## 3- Challenges:
+No challenges here.
