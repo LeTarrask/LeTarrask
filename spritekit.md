@@ -182,7 +182,7 @@ This project doesn't have challenges ?
 ### Project #35: Random Numbers
 Let GameplayKit help you generate random numbers in ways you soon won't be able to live without.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/35_Random%20Numbers/Random%20Numbers.playground]
 
 ## 1-  Techniques:
 - GameplayKit
