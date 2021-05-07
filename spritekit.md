@@ -188,9 +188,10 @@ Let GameplayKit help you generate random numbers in ways you soon won't be able 
 - GameplayKit
 
 ## 2- Step-by-step:
+This project is to use a different kind of random generator, from GameplayKit. The thing is that normal random is not cryptographically secure.
 
 ## 3- Challenges:
-
+It has no challenges.
 
 ***
 
