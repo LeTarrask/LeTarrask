@@ -165,17 +165,17 @@ Skipped. It's all about update the game.
 ### Project #34: Four in a Row
 Let iOS take over the AI in your games using GameplayKit AI.
 **Sprite Kit**
-(repo)[]
+(repo)[https://github.com/LeTarrask/HackingWithSwift/tree/main/SpriteKit_Projects/34_Four%20in%20a%20Row/Four%20in%20a%20Row]
 
 ## 1-  Techniques:
 - GKGameModel
+- Install gamekit
 
 ## 2- Step-by-step:
+It doesn't use SpriteKit. Uses the GKGameModel to predict new possibilites and create an AI to play. It's kinda complicated. Current code has a weird bug that the columns aren't really responding to the right tags.
 
 ## 3- Challenges:
-
-
-
+This project doesn't have challenges ?
 
 ***
 
