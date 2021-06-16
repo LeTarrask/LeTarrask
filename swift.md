@@ -38,3 +38,12 @@ Completed all projects in 07/05/2021, and added to [github repo](https://github.
 This file will keep other projects.
 
 [Here's the log](/otherTutorials.md)
+
+***
+
+## Advanced Swift
+Started Advanced 1 on 16/06/2021.
+
+[github repo](https://github.com/LeTarrask/HackingWithSwift)
+
+[Here's the log.](/advanced.md)
