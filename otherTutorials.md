@@ -5,8 +5,14 @@ This file will keep other projects.
 
 ## Project #1: Tic-Tac-Toe
 The simple game && AI from Sean Allen's 1h tutorial.
-
 [repo](https://github.com/LeTarrask/Tic-Tac-Toe)
+
+***
+
+## Project #2: MyMovies
+This is a project from Paul Hudson's iOS Accelerator program. It's an app that loads movie info from the web and displays it in an app.
+
+[repo](https://github.com/LeTarrask/MyMovies)
 
 ### 1- Techniques:
 - Extending URLSession with Combine to decode a JSON payload
