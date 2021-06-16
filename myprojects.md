@@ -9,14 +9,14 @@ Those were started and ended in different timeframes.
 ***
 
 ### Project #17: Marc2.0el
-[**Marc2.0el**]()
+[**Marc2.0el**](https://github.com/LeTarrask/Marc2.0el)
 
 - Joke navigation view
 
 ***
 
 ### Project #16: Jiu-jitsu
-[**Jiu-jitsu**]()
+[**Jiu-jitsu**](https://github.com/LeTarrask/Jiu-Jitsu)
 
 - Screen recording
 - SwiftUI
@@ -36,7 +36,7 @@ Those were started and ended in different timeframes.
 ***
 
 ### Project #14: 5ed SRD Reader for Mac
-**Repo not started yet**
+[**Eldritch app**](https://github.com/LeTarrask/EldrichtApp)
 
 - Mac OS
 - Web requests to API
