@@ -18,7 +18,7 @@ A memory recording project that uses AVAudio and ImagePicker for UIKit, but I'm 
 
 ### 2- Step-by-step:
 
-Started trying to do UIKit, but then found it was too much of a hassle to redraw screen and navigation, so I decided to just copy the functionality for SwiftUI. Added image picker, created a sheet to ask for Permissions. Added an ObservableObject to be the storage-controller.
+Started trying to do UIKit, but then found it was too much of a hassle to redraw screen and navigation, so I decided to just copy the functionality for SwiftUI. Added image picker, created a sheet to ask for Permissions. Added an ObservableObject to be the storage-controller. Interrupted development due to some weird XCode bug.
 
 ### 3- Challenges:
 
