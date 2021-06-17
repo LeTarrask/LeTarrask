@@ -47,3 +47,10 @@ Started Advanced 1 on 16/06/2021.
 [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
 [Here's the log.](/advanced.md)
+
+***
+
+## Hacking with MacOS
+Started Hacking MacOS SwiftUI on 17/06/2021.
+
+[Here's the log.](/macos.md)
