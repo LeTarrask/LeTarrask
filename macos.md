@@ -31,7 +31,7 @@ The tutorial still used SwiftUI 1, which uses AppDelegate, so had to Google the 
 ## Project #2: Odd One Out
 A game to use more complex layout options for SwiftUI.
 
-[repo]()
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/MacOS_Projects/SwiftUI/02_Odd_One_Out/Odd%20One%20Out)
 
 ### 1- Techniques:
 
@@ -47,3 +47,20 @@ Created the UI and a simple game logic, and there are not many differences from 
 ### 3- Challenges:
 
 Created a special message when the user ran out of tries and loses the game.
+
+***
+
+## Project #3: Tailoring for macOS
+A project to see what are the differences between iOS and macOS
+
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/MacOS_Projects/SwiftUI/02_Odd_One_Out/Odd%20One%20Out)
+
+### 1- Techniques:
+
+- NSWorkspace.shared.open(URL(string: "https://
+www.apple.com")!) to open links in browser
+
+### 2- Step-by-step:
+
+
+### 3- Challenges:
