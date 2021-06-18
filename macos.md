@@ -6,6 +6,8 @@ Just like the iOS version, there's a few projects that are exclusive for SwiftUI
 
 ***
 
+## SwiftUI
+
 ## Project #1: Cows and Bulls
 A simple game that uses a list and input, with a very simple game logic.
 
@@ -59,8 +61,29 @@ A project to see what are the differences between iOS and macOS
 
 - NSWorkspace.shared.open(URL(string: "https://
 www.apple.com")!) to open links in browser
+- Other input options: Toggle, Button, Date Picker, Radio Group and Menus
+- UX: hover, pressing delete and escape
+- IBAction to create app menus (which will be deprecated in this SwiftUI app format)
+- Create new windows
 
 ### 2- Step-by-step:
 
+This tutorial is not an app, just several different techniques to create interfaces and react to users actions.
 
 ### 3- Challenges:
+
+***
+
+## UIKit
+
+## Project #1:
+
+### 1- Techniques:
+
+- 
+
+### 2- Step-by-step:
+
+### 3- Challenges:
+
+***
