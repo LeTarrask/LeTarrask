@@ -55,7 +55,7 @@ Created a special message when the user ran out of tries and loses the game.
 ## Project #3: Tailoring for macOS
 A project to see what are the differences between iOS and macOS
 
-[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/MacOS_Projects/SwiftUI/02_Odd_One_Out/Odd%20One%20Out)
+[repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/MacOS_Projects/SwiftUI/03_MacTechnique)
 
 ### 1- Techniques:
 
@@ -76,14 +76,22 @@ This tutorial is not an app, just several different techniques to create interfa
 
 ## UIKit
 
-## Project #1:
+This book has several projects that are in the iOS book as well, and also has chapters about Swift, (types of data, loops, enums, etc) which are the same, so I won't be repeating them from the start. It could be interesting to get these XCode projects which I already did and make a MacOS version of them inside it, instead of creating a new one.
+
+## Project #1: Storm Viewer
 
 ### 1- Techniques:
 
-- 
+- NSViewController
+- NSTableView
+- NSImageView
 
 ### 2- Step-by-step:
 
+The logic is almost the same as the previous Storm Viewer, and I didn't do the iOS UIKit version. The only thing that's new is drawing the app in UIKit for Mac, which is kind of slower and has more concepts we need to understand in order to make it work.
+
 ### 3- Challenges:
+
+The challenge is to make a custom cell in the table view, which is very UIKit-y, and I'm going to lazy it out.
 
 ***
