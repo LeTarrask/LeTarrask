@@ -95,3 +95,75 @@ The logic is almost the same as the previous Storm Viewer, and I didn't do the i
 The challenge is to make a custom cell in the table view, which is very UIKit-y, and I'm going to lazy it out.
 
 ***
+
+## Project #2: Cows and Bulls
+
+There's a SwiftUI version, which I already finished. Skipping for now.
+
+***
+
+## Project #3: Social Media
+
+This project is about adding social media sharing into the project #1. The adding of the button is very, very complex in storyboard. Left it in half.
+
+***
+
+## Project #4 - Grid Browser
+
+There's a iOS version of it. Nothing new, I'd guess.
+
+***
+
+## Project #5 - Capital Cities
+
+There's a iOS version of it. The only interesting thing here is MapKit.
+
+***
+
+## Project #6 - Auto Layout
+
+Technique project. There's a iOS version of it, and it's for UIKit. SwiftUI is completely different. Skipping.
+
+***
+
+## Project #7 - Photo Memories
+
+I've read the first part, that shows how to do a Collection View, and a Drag and Drop, which will be different in SwiftUI, and then the second part is very interesting, about using AVFoundation to generate a video, and which can be the solution for Felipe's Jiu Jitsu idea.
+
+***
+
+## Project #8 - Odd One Out
+
+There's a SwiftUI version, which I already finished. Skipping for now.
+
+***
+
+## Project #9 - GCD
+
+Technique project. This is not an interface project, so don't need to do it again. Just re-read. It's identical to iOS, and then, async/await will change everything.
+
+***
+
+## Project #10 - Weather Bar
+
+This is an app that reads a JSON using CGD, and creates a Status Bar App. I did one (the lorem ipsum generator) a while ago, and JSON can be decoded better with Codable nowadays.
+
+***
+
+## Project #11 - Bubble Trouble
+
+SpriteKit Project, first one for Mac OS. I'll do it because it will be my first step into Mac OS Games. :)
+
+### 1- Techniques:
+
+- SKTexture
+- SKSpriteNode
+- Tracking mouse action
+
+### 2- Step-by-step:
+
+It's a simple element creation game, which has one simple interaction. It was an introduction to making the game in SpriteKit in Mac OS, which was neat.
+
+### 3- Challenges
+
+The challenges are adding other game stuff, like alerts for gameovers, invalidating the timer, etc.
