@@ -53,4 +53,6 @@ Started Advanced 1 on 16/06/2021.
 ## Hacking with MacOS
 Started Hacking MacOS SwiftUI on 17/06/2021. Finished working the tutorials on 21/06. Completed all SpriteKit projects, and the Documents based project, but didn't do the AutoLayout and others that are also on the iOS version, and skipped the pure Storyboards UIKit projects, which aren't that compatible with software written for Big Sur onwards.
 
+[github repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Advanced_Swift_Projects)
+
 [Here's the log.](/macos.md)
