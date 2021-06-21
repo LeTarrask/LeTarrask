@@ -167,3 +167,47 @@ It's a simple element creation game, which has one simple interaction. It was an
 ### 3- Challenges
 
 The challenges are adding other game stuff, like alerts for gameovers, invalidating the timer, etc.
+
+***
+
+## Project #12 - Animation
+
+UIKit Mac Os animation is being skipped for this time.
+
+***
+
+## Project #13 - Screenable
+
+Longest project of the book.
+
+***
+
+## Project #14 - Shooting Gallery
+
+Second game. Animations, new levels and custom mouse cursor.
+It was a quick and interesting project, to make a shooter. In the end, SpriteKit is mostly a matter of game organization, and conquering and dividing. And it has little to nothing that's specifically for Cocoa or Mac OS, except the cursor part.
+
+***
+
+## Project #15 - Undo Manager
+
+Adds undo functionality to Screenable.
+
+***
+
+## Project #16 - Bookworm
+
+This project is to teach the Bindigns technique. It's basically a Storyboards thing.
+
+***
+
+## Project #17 - Match Three
+
+Build a ball-matching game with SpriteKit, while learning about shape nodes and particle emitters. This was another fun game that could work in any other platform, since it's about SpriteKit capabilities. The game can be super tuned and changed into something else.
+
+***
+
+## Project #18 - Bindings
+
+Another bindings technique project, that uses KVC and KVO.
+
