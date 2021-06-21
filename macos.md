@@ -178,7 +178,13 @@ UIKit Mac Os animation is being skipped for this time.
 
 ## Project #13 - Screenable
 
-Longest project of the book.
+Longest project of the book. It's a document based project, which is very useful for MacOS.
+
+### 1- Techniques:
+
+- Document-based app
+
+### 2- Step-by-step:
 
 ***
 
