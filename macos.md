@@ -210,7 +210,7 @@ Adds undo functionality to Screenable. This is a simple call and method duplicat
 
 ## Project #16 - Bookworm
 
-This project is to teach the Bindigns technique. It's basically a Storyboards thing.
+This project is to teach the Bindigns technique. It's basically a Storyboards thing. I'm skipping for now, since I'll probably never use it in 2021.
 
 ***
 
@@ -222,5 +222,5 @@ Build a ball-matching game with SpriteKit, while learning about shape nodes and 
 
 ## Project #18 - Bindings
 
-Another bindings technique project, that uses KVC and KVO.
+Another bindings technique project, that uses KVC and KVO. I'm skipping for now, since I'll probably never use it in 2021.
 
