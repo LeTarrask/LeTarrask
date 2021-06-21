@@ -183,8 +183,11 @@ Longest project of the book. It's a document based project, which is very useful
 ### 1- Techniques:
 
 - Document-based app
-
-### 2- Step-by-step:
+- NSCoding
+- NSKeyedArchiver
+- NSOpenPanel
+- NSSavePanel
+- NSDocument
 
 ***
 
@@ -197,7 +200,11 @@ It was a quick and interesting project, to make a shooter. In the end, SpriteKit
 
 ## Project #15 - Undo Manager
 
-Adds undo functionality to Screenable.
+Adds undo functionality to Screenable. This is a simple call and method duplication technique, but there's a LOT of copypasta which I'll skip for now.
+
+### 1- Techniques:
+
+- UndoManager
 
 ***
 
