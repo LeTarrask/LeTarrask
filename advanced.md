@@ -62,3 +62,21 @@ This is a SiriKit app, so creating the project is already different.
 ### 2- Step-by-step:
 
 First thing is thata INRidesharingDomainHandling is already deprecated, so this tutorial is kinda old. The techniques in this book are all to be handled with care. We simply had to conform to the protocols in the RidesharingDomainHandling, to allow maps to book a car ride, and then conform to a few SiriKit protocols to allow Siri to work her magic. The technique is quite simple, but using it for other projects will require using something completely different. Paul's words: "The current implementation of Siri is limited to only a handful of app types, which is going to keep the vast majority of app developers away. However, Apple have a long history of working incrementally: developing a new feature that’s somewhat limited, then expanding it over time based on feedback."
+
+***
+
+## Project #4: Polyglot
+
+This is an Extension app that shows a word in two languages on the lock screen.
+
+[repo]()
+
+### 1- Techniques:
+
+- Extensions
+- 
+
+### 2- Step-by-step:
+
+Doing it in SwiftUI. Got into a debugging stupidity because I didn't declare words as Published. It uses Alert to get input text fields, but I'd rather do it in a SwiftUI sheet. Finished a basic UI that's similar to the UIKit tutorial version. Now to the Extension. There's no Today extension in current XCode, so I created a Widget target, hoping it works. It doesn't. Template code is broken.
+
