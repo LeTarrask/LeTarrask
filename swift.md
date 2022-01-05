@@ -16,28 +16,28 @@ Those were started and ended in different timeframes.
 ## Hacking With SwiftUI Projects
 Completed all projects in 15/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
-[Here's the log.](/swiftui.md)
+[Here's the log.](https://github.com/LeTarrask/HackingWithSwift/swiftui.md)
 
 ***
 
 ## Hacking With Swift UIKit Projects
 Completed all projects in 27/04/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
-[Here's the log.](/uikit.md)
+[Here's the log.](https://github.com/LeTarrask/HackingWithSwift/uikit.md)
 
 ***
 
 ## Hacking With Swift SpriteKit Projects
 Completed all projects in 07/05/2021, and added to [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
-[Here's the log.](/spritekit.md)
+[Here's the log.](https://github.com/LeTarrask/HackingWithSwift/spritekit.md)
 
 ***
 
 ## Other projects from tutorials
 This file will keep other projects.
 
-[Here's the log](/otherTutorials.md)
+[Here's the log](https://github.com/LeTarrask/HackingWithSwift/otherTutorials.md)
 
 ***
 
@@ -46,7 +46,7 @@ Started Advanced 1 on 16/06/2021.
 
 [github repo](https://github.com/LeTarrask/HackingWithSwift)
 
-[Here's the log.](/advanced.md)
+[Here's the log.](https://github.com/LeTarrask/HackingWithSwift/advanced.md)
 
 ***
 
@@ -55,4 +55,4 @@ Started Hacking MacOS SwiftUI on 17/06/2021. Finished working the tutorials on 2
 
 [github repo](https://github.com/LeTarrask/HackingWithSwift/tree/main/Advanced_Swift_Projects)
 
-[Here's the log.](/macos.md)
+[Here's the log.](https://github.com/LeTarrask/HackingWithSwift/macos.md)
