@@ -7,7 +7,7 @@ Currently I’m working on my Swift skills and improving the UI in a few SwiftUI
 ***
 
 ### Contact: - How to get in touch
-You can find me at [my site](https://www.tarrask.com) or on [twitter](https://www.twitter.com/tarrask).
+You can find me at [my site](https://www.tarrask.com) or on [linkedIn](http://linkedin.com/in/tarrask/).
 
 ***
 
