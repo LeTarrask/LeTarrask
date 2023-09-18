@@ -1,8 +1,41 @@
 ### Hi there 👋 I'm Alex
 
-I'm an ad copywriter that decided to write code. I've had some programming classes in Python, and then started learning Swift by myself, mostly with [Paul Hudson](https://github.com/twostraws)'s books and site.
+I'm an ad copywriter that decided to write code. I've started with programming classes in Python while I got a Master Degree in Gamedesign and Development, and then started learning Swift by myself, mostly with [Paul Hudson](https://github.com/twostraws)'s books and site.
 
 Currently I’m working on my Swift skills and improving the UI in a few SwiftUI projects. I’m looking to collaborate on open source projects, with marketing and anything communications & advertising related.
+
+***
+
+### Contact: - How to get in touch
+You can find me at [my site](https://www.tarrask.com) or on [twitter](https://www.twitter.com/tarrask).
+
+***
+
+### Log: - Here's the stuff I'm working right nowadays
+
+* [**Placeholder Project**](https://github.com/LeTarrask/CameraTest) - I've spent a couple of months working on an MVP that uses the iOS Camera API as a proof of concept for a project.
+
+* [**TimeZoner**](https://github.com/LeTarrask/TimeZoner) - a personal project to display different working timezones to help me visualize and collaborate with teammates around the world.
+
+***
+
+### Portfolio: - Those are the projects I'm most proud of
+
+Following the advice of learning by doing, I've created a few projects that are usable. I'm using a few of those personally, and a few are distributed in the App Store.
+
+* [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike. [Available in the iOS app store](https://apps.apple.com/pt/app/fuel-logue/id1670711112).
+
+* [**Kawaiible**](https://github.com/LeTarrask/Dobble) - Digital version of the Dobble Card Game for kids. [Available in the iOS app store](https://apps.apple.com/pt/app/kawaiibble/id1670616622).
+
+* [**2048**](https://github.com/LeTarrask/2048) - A pure SwiftUI version of the 2048 game. A nice weekend project to prove myself that I can do interesting stuff with an advertising agency deadline.
+
+* [**Cold Turkey**](https://github.com/LeTarrask/ColdTurkey) - A little project app that holds a password secret for some time. I did this project to fight procrastination through social media abuse. :)
+
+* [**Tobem Ipsum**](https://github.com/LeTarrask/Tobem-Ipsum) - A Loren Ipsum generator created in a 2 day hackaton as a Status Bar app for Mac OS.
+
+* [**Dreadline**](https://github.com/LeTarrask/Dreadline) - A text editor to avoid procrastination. It sends your texts to your PM/Boss/Coworker/other responsible person when the time is over.
+
+* [**Remember that night**](https://github.com/LeTarrask/Remember_that_night) - A Flask interface for a Python script that generate playlists for fake festivals on Spotify.
 
 ***
 
@@ -15,52 +48,3 @@ Stat card created by [anuraghazra](https://github.com/anuraghazra/github-readme-
 
 ![](https://www.codewars.com/users/LeTarrask/badges/large)
 
-***
-
-### Log: - Here's the stuff I'm working right now
-
-I’m currently learning how to create nice interfaces using SwiftUI. So I'm getting a few small apps and tweaking their interfaces.
-
-* [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike.
-
-* [**2048**](https://github.com/LeTarrask/2048) - A pure SwiftUI version of the 2048 game. A nice weekend project to prove myself that I can do interesting stuff with an advertising agency deadline.
-
-* [**Dualogue**](https://github.com/LeTarrask/Dualogue) - A conversation talk list in SwiftUI. My personal approach to a to do list, that also uses CNContacts and Core Data. Coding it has taught me a lot, but the usefulness of the app is not that great.
-
-***
-
-### Portfolio: - Those are the projects I'm most proud of
-
-Following the advice of learning by doing, I've created a few projects that are usable. I'm using a few of those personally, and considering App Store distribution.
-
-* [**Tobem Ipsum**](https://github.com/LeTarrask/Tobem-Ipsum) - A Loren Ipsum generator created in a 2 day hackaton as a Status Bar app for Mac OS.
-
-* [**Dobble**](https://github.com/LeTarrask/Dobble) - Clone of the Dobble Card Game
-
-* [**Dreadline**](https://github.com/LeTarrask/Dreadline) - A text editor to avoid procrastination. It sends your texts to your PM/Boss/Coworker/other responsible person when the time is over.
-
-* [**SwiftUI Placeholder**](https://github.com/LeTarrask/SwiftUI-Placeholder) - A simple SwiftUI struct that can be used to preview sizes and spaces during development, as wireframe placeholders. It's a version of Paul Hudson's [Placeholder](https://github.com/twostraws/Placeholder) for Swift.
-
-***
-
-### Parked stuff: - Some projects that I'm waiting some time to finish
-* [**Pomodoro**](https://github.com/LeTarrask/Pomodoro) - Created the logic for a Pomodoro app, now need to polish the UI.
-
-* [**Remember that night**](https://github.com/LeTarrask/Remember_that_night) - A Flask interface for a Python script that generate playlists for fake festivals on Spotify.
-
-* [**Iniciativer**](https://github.com/LeTarrask/Iniciativer) - First SwiftUI project, a simple iniciative tracker for TTRPGs.
-
-* [**1 milhão de folhas**](https://github.com/LeTarrask/1-milh-o-de-folhas) - My first app store launch, an art project for random poetry.
-
-
-### Other: - Politics/memes/luz
-Some small projects I've done for fun.
-
-* [**VaiaTemer**](https://github.com/LeTarrask/VaiaTemer) - A twitterbot to boo a former president.
-
-* [**Mecanismator**](https://github.com/LeTarrask/Mecanismator) - A Chrome plugin in javascript to replace real names with characters from Netflix's The Mechanism.
-
-* [**Odebrechtr**](https://github.com/LeTarrask/Odebretchr) - A Chrome plugin in javascript to replace Brazilian politician names with their codenames in a bribery scandal.
-
-### Contact: - How to get in touch
-You can find me at [my site](https://www.tarrask.com) or on [twitter](https://www.twitter.com/tarrask).
