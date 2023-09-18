@@ -1,10 +1,22 @@
 # My Projects
 Those were started and ended in different timeframes.
 
-### Project #18: Whatsapp autospeed
-[**Whatsapp autospeed**]()
+### Project #20: Bracketed Camera [**Bracketed Camera](https://github.com/LeTarrask/CameraTest)
 
-- An app that allows to store answers and quickly add them to a whatsapp WebView
+- iOS Camera API
+
+***
+
+### Project #19: Robot Lunga: **Private Repo**
+
+- GPT Interface
+- Chat View
+
+***
+
+### Project #18: Cold Turkey [**Cold Turkey**](https://github.com/LeTarrask/ColdTurkey)
+
+- Hidden text fields
 
 ***
 
