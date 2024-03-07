@@ -54,3 +54,4 @@ yarn-error.log
 
 # Ignore project-specific files and directories
 public/uploads/
+.DS_Store

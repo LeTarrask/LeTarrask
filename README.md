@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Alex
 
-I'm an ad copywriter that decided to write code. I've started with programming classes in Python while I got a Master Degree in Gamedesign and Development, and then started learning Swift by myself, mostly with [Paul Hudson](https://github.com/twostraws)'s books and site.
+Transitioning from an ad copywriting background, I ventured into the realm of coding. Beginning with Python programming classes, I concurrently pursued a Master's Degree in Game Design and Development. My journey led me to self-educate in Swift, primarily through resources like Paul Hudson's books and website.
 
-Currently I’m working on my Swift skills and improving the UI in a few SwiftUI projects. I’m looking to collaborate on open source projects, with marketing and anything communications & advertising related.
+Presently, I'm dedicated to honing my Swift skills and enhancing user interfaces across several SwiftUI projects. Eager to contribute to open-source initiatives, my interests lie in creativity, storytelling, games, marketing and all facets of communication.
 
 ***
 
