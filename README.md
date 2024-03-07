@@ -13,7 +13,7 @@ You can find me at [my site](https://www.tarrask.com) or on [linkedIn](http://li
 
 ### Log: - Here's the stuff I'm working right nowadays
 
-* **Placeholder Project** - After working on an MVP that uses the iOS Camera API as a proof of concept, I'm rewriting the application from the ground up, leading to the release of version 1.0. Part of it includes the open sourced fork of [Aespa](https://github.com/LeTarrask/Aespa), and an iOS client that uses Core Data and a Firebase server.
+* **Placeholder Project** - After working on an MVP that uses the iOS Camera API as a proof of concept, I'm rewriting the application from the ground up, leading to the release of version 1.0. Part of it includes the open sourced fork of [Aespa](https://github.com/LeTarrask/Aespa), and an iOS client that uses Core Data and a Firebase server. The app uses the Camera API, StoreKit, Notifications and a MVVM architecture.
 
 ***
 
@@ -46,5 +46,5 @@ Stat card created by [anuraghazra](https://github.com/anuraghazra/github-readme-
 
 ### Codewars - My current Codewars profile
 
-![](https://www.codewars.com/users/LeTarrask/badges/large)
+![le Tarrask Codewars badge](https://www.codewars.com/users/LeTarrask/badges/large)
 
