@@ -25,6 +25,8 @@ Following the advice of learning by doing, I've created a few projects that are 
 
 * [**Kawaiible**](https://github.com/LeTarrask/Dobble) - Digital version of the Dobble Card Game for kids. [Available in the iOS app store](https://apps.apple.com/pt/app/kawaiibble/id1670616622).
 
+* [**Dungeon Dwellers 5e**](https://github.com/LeTarrask/Dungeon_Dwellers) - Final project to complete Harvard CS50x, this app is a catalogue of open source RPG creatures, loaded from an external source, and stored in Core Data, along with user data. It uses a MVVM architecture, and adapts to different devices and display sizes.
+
 * [**2048**](https://github.com/LeTarrask/2048) - A pure SwiftUI version of the 2048 game. A nice weekend project to prove myself that I can do interesting stuff within an advertising agency deadline.
 
 * [**Cold Turkey**](https://github.com/LeTarrask/ColdTurkey) - A little project app that holds a password secret for some time. I did this project to fight procrastination through social media abuse. :)
