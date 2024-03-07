@@ -13,9 +13,7 @@ You can find me at [my site](https://www.tarrask.com) or on [linkedIn](http://li
 
 ### Log: - Here's the stuff I'm working right nowadays
 
-* [**Placeholder Project**](https://github.com/LeTarrask/CameraTest) - I've spent a couple of months working on an MVP that uses the iOS Camera API as a proof of concept for a project.
-
-* [**TimeZoner**](https://github.com/LeTarrask/TimeZoner) - a personal project to display different working timezones to help me visualize and collaborate with teammates around the world.
+* **Placeholder Project** - After working on an MVP that uses the iOS Camera API as a proof of concept, I'm rewriting the application from the ground up, leading to the release of version 1.0. Part of it includes the open sourced fork of [Aespa](https://github.com/LeTarrask/Aespa), and an iOS client that uses Core Data and a Firebase server.
 
 ***
 
@@ -23,11 +21,11 @@ You can find me at [my site](https://www.tarrask.com) or on [linkedIn](http://li
 
 Following the advice of learning by doing, I've created a few projects that are usable. I'm using a few of those personally, and a few are distributed in the App Store.
 
-* [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike. [Available in the iOS app store](https://apps.apple.com/pt/app/fuel-logue/id1670711112).
+* [**Mileage Tracker**](https://github.com/LeTarrask/Mileage-Tracker) - A SwiftUI logger to calculate average fuel consumption for my bike. [Available in the iOS app store](https://apps.apple.com/pt/app/fuel-logue/id1670711112). Currently with a 1.1 version with improved design by Cristina Santos, and working on a version with more animations.
 
 * [**Kawaiible**](https://github.com/LeTarrask/Dobble) - Digital version of the Dobble Card Game for kids. [Available in the iOS app store](https://apps.apple.com/pt/app/kawaiibble/id1670616622).
 
-* [**2048**](https://github.com/LeTarrask/2048) - A pure SwiftUI version of the 2048 game. A nice weekend project to prove myself that I can do interesting stuff with an advertising agency deadline.
+* [**2048**](https://github.com/LeTarrask/2048) - A pure SwiftUI version of the 2048 game. A nice weekend project to prove myself that I can do interesting stuff within an advertising agency deadline.
 
 * [**Cold Turkey**](https://github.com/LeTarrask/ColdTurkey) - A little project app that holds a password secret for some time. I did this project to fight procrastination through social media abuse. :)
 
